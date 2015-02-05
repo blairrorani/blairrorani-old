@@ -57,7 +57,9 @@ img {
 .wrapper-masthead a:link {
   border-bottom: none;
 }
-
+  .wrapper-masthead h1 {
+    text-transform: uppercase;
+  }
 /* avatar */
 
 .site-avatar {
