@@ -1,0 +1,129 @@
+/* custom rules */
+
+.container {
+  max-width: 680px;
+}
+
+.post {
+  margin-bottom: 120px;
+}
+
+/* --- */
+
+body  {
+  font-family: 'Montserrat', helvetica, arial, sans-serif;
+  border-top: 6px solid #e74c3c;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+/* links */
+a:link, a:visited, a:active {
+  text-decoration: none;
+  border-bottom: 1px solid #bdc3c7;
+  color: #e74c3c;
+}
+
+a:hover {
+  background: #F6D965;
+  border: none;
+  color: #222;
+}
+  a.site-avatar:hover {
+    background: none;
+  }
+
+img {
+  max-width: 100%;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
+/* masthead */
+
+.wrapper-masthead {
+  margin-bottom: 90px;
+  padding-top: 30px;
+}
+.wrapper-masthead a:link {
+  border-bottom: none;
+}
+
+/* avatar */
+
+.site-avatar {
+  float: none;
+  display: block;
+  margin: 0 auto;
+  width: 80px;
+  height: 80px;
+  padding: 0 0 15px 0;
+}
+
+  /*@media (min-width: 700px) {
+    .site-avatar {
+      float: left;
+      display: inline;
+      margin-right: 15px;
+    }
+  }*/
+
+  .site-avatar img {
+    border-radius: 100%;
+  }
+
+/* site info */
+.site-info {
+  float: none;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  }
+
+  /*@media (min-width: 700px) {
+    .site-info {
+      float: left;
+      display: inline;
+      text-align: left;
+  }
+}*/
+
+/* nav */
+
+nav {
+  float: none;
+  margin-top: 9px;
+  display: block;
+  text-align: center;
+  border-top: 1px solid #bdc3c7;
+  border-bottom: 1px solid #bdc3c7;
+  padding: 10px 0;
+}
+
+  nav a {
+    padding: 0 15px;
+  }
+
+  /*@media (min-width: 700px) {
+    nav {
+      float: right;
+      display: inline;
+      margin-top: 23px;
+      text-align: left;
+    }*/
+
+
+/* footer */
+
+.footer {
+  text-align: center;
+}
