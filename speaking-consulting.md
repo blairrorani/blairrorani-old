@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
+title: Speaking and consulting
+permalink: /speaking-consulting/
 ---
 
 This is a project page.

@@ -12,7 +12,7 @@
 
 body  {
   font-family: 'Montserrat', helvetica, arial, sans-serif;
-  border-top: 6px solid #8e44ad;
+  border-top: 6px solid #e74c3c;
 }
 
 h1, h2, h3 {
@@ -28,7 +28,7 @@ p {
 a:link, a:visited, a:active {
   text-decoration: none;
   border-bottom: 1px solid #bdc3c7;
-  color: #8e44ad;
+  color: #e74c3c;
 }
 
 a:hover {
@@ -114,7 +114,7 @@ nav {
 }
 
   nav a {
-    margin: 0 15px;
+    margin: 0 10px;
   }
 
   /*@media (min-width: 700px) {
