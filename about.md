@@ -7,6 +7,7 @@ permalink: /about/
 
 
 <div class="posts">
+<p style="margin-bottom: 30px;"><img src="{{ site.baseurl }}/images/blair.png" alt="Photo of Blair Rorani"></p>
 <ul>
 <li>Founder and creative instructional designer at <a href="http://everlearning.com.au">Ever Learning</a>.</li>
 <li>I am a <a href="http://en.wikipedia.org/wiki/Visual_thinking" target="_blank">hyper-visual thinker</a>. This means I constantly <a href="https://www.behance.net/blairrorani" target="_blanks">draw pictures</a> and <a href="http://pinterest.com/everlearningnow" target="_blank">take notes</a> on my iPad.</li>
