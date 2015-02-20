@@ -1,12 +1,12 @@
 # blog in subdir
-permalink: /blog/:title.html
+# permalink: /blog/:categories/:title.html
 
 #
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: BLAIR RORANI
+name: Blair Rorani
 
 # Short bio or description (displayed in the header)
 description: I teach people how to teach and draw better.
@@ -47,6 +47,11 @@ url: http://blair.rorani.com
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# pagination
+paginate: 1
+paginate_path: "/:num/"
+
 
 #
 # !! You don't need to change any of the configuration flags below !!

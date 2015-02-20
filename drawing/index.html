@@ -1,0 +1,15 @@
+---
+layout: default
+title: drawing
+---
+
+{% include what-is-this.html %}
+
+<h1 class="u-c-txt">#{{ page.title }}</h1>
+<div class="posts">
+  {% for post in site.categories.drawing %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</div>
+
+{% include footer-links.html %}
