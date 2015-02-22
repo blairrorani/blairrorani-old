@@ -21,36 +21,16 @@ layout: default
   <article class="post">
 
     <h1 class="u-c-txt"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-
+    {% include post-author.html%}
     <div class="entry">
       {{ post.content }}
     </div>
 
   </article>
-  <div class="row u-c-txt">
-    <p class="author">
-      <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-      <span class="date">Blair wrote this on {{ post.date | date: '%d %b' }}.</span>
-      <br>He helps people get better teaching and drawing.</p>
-    </div>
   {% endfor %}
-  <!-- author info -->
 </div>
 
-<!-- Pagination links -->
-<div class="older-newer u-c-txt">
-  <!--<a href="/all-writing">All writing</a>-->
-<!--  {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-  <span class="next ">Older</span>
-  {% endif %}
-   /
-  {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
-  {% else %}
-  <span class="previous">Newer</span>
-  {% endif %}-->
-  <!--<span class="page_number ">Post: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
-
+{% include about-blair.html %}
+<div class="row older-newer">
+<p><a href="all-posts">Read more posts like this</a></p>
 </div>

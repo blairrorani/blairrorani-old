@@ -8,7 +8,10 @@ Today we're breaking down of an explainer video. The purpose of this post is to 
 
 ## The video
 
-<iframe src="//player.vimeo.com/video/88268560" width="500" height="281" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="">
+<iframe src="//player.vimeo.com/video/88268560"  width="500" height="281" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="show-on-mobile">
+</iframe>
+
+<iframe src="//player.vimeo.com/video/88268560"  width="800" height="450" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" class="show-on-phablet">
 </iframe>
 
 

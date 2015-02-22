@@ -5,7 +5,7 @@
 }
 
 .post {
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 
 /* --- */
@@ -25,12 +25,13 @@ h1, h2, h3 {
 
 h1 {
   font-size: 4rem;
-  margin-bottom: 6rem;
+  margin-bottom: 3rem;
 }
 
   @media (min-width: 550px) {
     h1 {
       font-size: 8rem;
+      margin-bottom: 6rem;
     }
   }
 
@@ -172,23 +173,30 @@ nav {
 .welcome {
   border-bottom: 1px solid #bdc3c7;
   padding-bottom: 15px;
-  margin-bottom: 6w0px;
+  margin-bottom: 60px;
 }
 
 .entry,
 .content {
-  margin-bottom: 90px;
+  margin-bottom: 30px;
 }
 
 .author {
-  padding-bottom: 60px;
+  margin-bottom: 60px;
+  color: #2ecc71;
 }
 
+.about-blair {
+  border-top: 1px solid #bdc3c7;
+  padding-top: 60px;
+  margin-bottom: 30px;
+}
 
 .older-newer {
   font-family: dosis, sans-serif;
   font-size: 3.6rem;
   font-weight: 600;
+  text-align: center;
 }
 
 
@@ -208,9 +216,29 @@ nav {
 .footer {
   text-align: center;
   padding-top: 5px;
+  color: #7f8c8d;
 }
 
 /* utility */
 .u-c-txt {
   text-align: center;
+}
+
+@media (max-width: 549px) {
+  .show-on-mobile {
+    display: block;
+  }
+  .show-on-phablet {
+    display: none;
+  }
+
+}
+
+@media (min-width: 550px) {
+  .show-on-mobile {
+    display: none;
+  }
+  .show-on-phablet {
+    display: block;
+  }
 }
