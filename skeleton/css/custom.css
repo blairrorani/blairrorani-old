@@ -12,6 +12,7 @@
 
 body  {
   font-family: 'Montserrat', helvetica, arial, sans-serif;
+  font-size: 1.8em;
   border: 10px solid #c0392b;
   color: #2c3e50;
   padding-top: 60px;
@@ -47,7 +48,7 @@ li {
 .content p,
 .content li,
 article ul li {
-  font-size: 2rem;
+  font-size: 2.4rem;
 }
 
 .posts li {
