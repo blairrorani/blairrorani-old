@@ -69,7 +69,7 @@ Your focus should be to design the absolute minimum solution, one that will meet
 
 ## Take aways
 
-* Don’t assume the *doing everything* approach is the right one
-* Validate your assumptions, especially if things have always been done a certain way
+* Don’t assume the *doing everything* approach is the right one.
+* Validate your assumptions, especially if things have always been done a certain way.
 * Start with *doing nothing* and only add what is absolutely necessary to design the minimum viable solution.
 * Design less.

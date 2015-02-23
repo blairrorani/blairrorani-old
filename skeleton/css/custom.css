@@ -26,6 +26,7 @@ h1, h2, h3 {
 h1 {
   font-size: 4rem;
   margin-bottom: 3rem;
+  line-height: 1.3
 }
 
   @media (min-width: 550px) {
@@ -80,6 +81,10 @@ a:hover {
   a.site-avatar:hover {
     background: none;
   }
+
+.posts a:visited {
+  color: #7f8c8d
+}
 
 img,
 iframe {
