@@ -15,6 +15,14 @@ Let’s take a closer look.
 Regardless of whether or not a new product, process, or policy is easy to learn you can always just leave learners (a.k.a. users, team members, customers, etc) to figure it out on their own. Here’s how:
 
 Do nothing.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 Now this might work. However, people often have some questions they need answering when they are learning something new. If something is too complicated they will probably get frustrated and give up. Also, if they make a mistake it could cause big problems and cost big money.
 
