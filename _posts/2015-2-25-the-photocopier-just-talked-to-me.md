@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The photocopier just talked to me
-category: teaching
+category: smartworkplaces
 ---
 
 Here are the slides from my talk at iDesignX 2015. I talked about some ways you can deliver training just-in-time using iBeacons.
