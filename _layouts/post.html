@@ -9,7 +9,7 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-<p class="u-c-txt"><a href="/{{ page.category}}">#{{ page.category }}</a></p>
+<p class="u-c-txt"><a href="/{{ page.category}}">#{{ page.category | replace: '-', ' '}}</a></p>
 {% include share.html %}
 </article>
 {% include about-blair.html %}

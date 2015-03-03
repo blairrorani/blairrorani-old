@@ -13,7 +13,7 @@
 
 
     <meta name="author" content="{{ site.name }}" />
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ page.description }}">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -32,24 +32,8 @@
   </head>
 
   <body>
-
-    <!--<div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name">{{ site.name }}</h1>
-
-          </div>
-
-          <nav>
-          <a href="{{ site.baseurl }}/">Blog</a>
-          / <a href="{{ site.baseurl }}/about">About</a>
-        </nav>
-      </header>
-    </div>
-  </div>-->
+    {% include button-menu.html %}
+    <!--{% include boring-menu.html %}-->
     <div id="main" role="main" class="container">
       {{ content }}
     </div>

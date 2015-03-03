@@ -1,5 +1,5 @@
-# blog in subdir
-# permalink: /blog/:categories/:title.html
+# blog permalink
+#permalink: /:categories/:title.html
 
 #
 # This file contains configuration flags to customize your site
