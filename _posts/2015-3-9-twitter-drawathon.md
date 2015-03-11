@@ -40,4 +40,4 @@ Click the links to see everyone's drawings on Twitter.
 * Day 12: ?
 * Day 13: ?
 * Day 15: ?
-* Day 16: **Suprise**
+* Day 16: **Surprise**
