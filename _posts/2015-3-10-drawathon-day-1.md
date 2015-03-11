@@ -4,7 +4,9 @@ title: Draw-a-thon Day 1
 category: drawing
 ---
 
-Day one off the draw-a-thon is over. <a href="https://twitter.com/blairrorani/status/575403724526391296" target="_blank">Here's my first pic</a>.
+Day one of the draw-a-thon is over. <a href="https://twitter.com/blairrorani/status/575403724526391296" target="_blank">Here's my first pic</a>.
+
+Here is <a href="https://twitter.com/tomkuhlmann/status/575452256855662593" target="_blank">@tomkuhlmann's pic</a>.
 
 It's never too late to [join in](/twitter-drawathon). Remember: this isn't a competition, just a fun way to practise your drawing skills.
 
