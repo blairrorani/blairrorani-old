@@ -29,7 +29,7 @@ Click the links to see everyone's drawings on Twitter.
 * Day 1: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a>
 * Day 2: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a>
 * Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a>
-* Day 4: ?
+* Day 4: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a>
 * *Weekends off!*
 * Day 5: ?
 * Day 6: ?
