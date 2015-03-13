@@ -26,9 +26,9 @@ Late to the party? Just start with the latest drawing and go from there!
 
 Click the links to see everyone's drawings on Twitter.
 
-* Day 1: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a>
-* Day 2: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a>
-* Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a>
+* Day 1: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a> ([my video](/drawathon-day-1))
+* Day 2: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a> ([my video](/drawathon-day-2))
+* Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a> ([my video](/drawathon-day-3))
 * Day 4: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a>
 * *Weekends off!*
 * Day 5: ?
@@ -36,9 +36,12 @@ Click the links to see everyone's drawings on Twitter.
 * Day 7: ?
 * Day 8: ?
 * Day 9: ?
+* *Weekends off!*
 * Day 10: ?
 * Day 11: ?
 * Day 12: ?
 * Day 13: ?
+* Day 14: ?
+* *Weekends off!*
 * Day 15: ?
 * Day 16: **Surprise**
