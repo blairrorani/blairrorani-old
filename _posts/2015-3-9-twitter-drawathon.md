@@ -31,7 +31,7 @@ Click the links to see everyone's drawings on Twitter.
 * Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a> ([my video](/drawathon-day-3))
 * Day 4: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a> ([my video](/drawathon-day-4))
 * *Weekends off!*
-* Day 5: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day5&src=typd" target="_blank">Old man with beard</a>
+* Day 5: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day5&src=typd" target="_blank">Old man with beard</a> ([my video](/drawathon-day-5))
 * Day 6: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day6&src=typd" target="_blank">Poster</a>
 * Day 7: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day7&src=typd" target="_blank">Princess</a>
 * Day 8: ?
