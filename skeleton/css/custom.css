@@ -94,6 +94,23 @@ a:hover {
     background: none;
   }
 
+  .spinme:hover {
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-animation:spin 2s linear infinite;
+    -moz-animation:spin 2s linear infinite;
+    animation:spin 2s linear infinite;
+  }
+
+
+
+  @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+  @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+  @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
 .posts a:visited {
   color: #7f8c8d
 }
@@ -164,7 +181,7 @@ iframe {margin-bottom: 30px;}
 .button-menu {
   padding-left: 30px;
   padding-right: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 90px;
 }
 
 .site-avatar {
