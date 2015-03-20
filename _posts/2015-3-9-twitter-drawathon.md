@@ -35,7 +35,7 @@ Click the links to see everyone's drawings on Twitter.
 * Day 6: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day6&src=typd" target="_blank">Poster</a> ([my video](/drawathon-day-6))
 * Day 7: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day7&src=typd" target="_blank">Princess</a>
 * Day 8: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a>
-* Day 9: ?
+* Day 9: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a>
 * *Weekends off!*
 * Day 10: ?
 * Day 11: ?
