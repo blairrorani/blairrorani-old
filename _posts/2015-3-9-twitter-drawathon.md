@@ -37,7 +37,7 @@ Click the links to see everyone's drawings on Twitter.
 * Day 8: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a>
 * Day 9: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a>
 * *Weekends off!*
-* Day 10: ?
+* Day 10: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a>
 * Day 11: ?
 * Day 12: ?
 * Day 13: ?
