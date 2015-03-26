@@ -37,7 +37,7 @@ Click the links to see everyone's drawings on Twitter.
 * Day 8: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a> ([my video](/drawathon-day-8))
 * Day 9: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a> ([my video](/drawathon-day-9))
 * *Weekends off!*
-* Day 10: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a>
+* Day 10: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a> ([my video](/drawathon-day-10))
 * Day 11: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day11&src=typd" target="_blank">Cowboy</a>
 * Day 12: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day12&src=typd" target="_blank">Bear</a>
 * Day 13: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day13&src=typd" target="_blank">Minivan</a>
