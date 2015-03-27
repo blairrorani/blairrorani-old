@@ -54,6 +54,10 @@ h3 {
   margin-top: 60px;
 }
 
+  .about-blair h3 {
+    margin-top: 15px;
+  }
+
 ul li {
   list-style-position: outside;
   list-style: circle;
