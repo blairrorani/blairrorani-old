@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter
+title: Free stuff
 ---
 
 I send free tips, tutorials and ideas about how to do more creative and engaging work to your inbox each week.
