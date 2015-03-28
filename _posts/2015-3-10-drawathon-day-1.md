@@ -16,4 +16,4 @@ And as promised, here's a video of how I drew **a boy**.
 
 <iframe src="https://player.vimeo.com/video/121837767" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Again, join in and get drawing. <a href="https://twitter.com/blairrorani/status/575416343647756288" target="_blank">Day 2: Draw a bucket of water</a>.
+Again, join in and get drawing. <a href="/twitter-drawathon">Day 2: Draw a bucket of water</a>.
