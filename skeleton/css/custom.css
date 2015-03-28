@@ -58,20 +58,18 @@ h3 {
     margin-top: 15px;
   }
 
-ul li {
+li {
   list-style-position: outside;
-  list-style: circle;
 }
 
-/*.entry,
-.content,
-article {
-  font-size: 2rem;
-}*/
+  #main ul li {
+    list-style: circle;
+    margin-left: 45px;
+  }
 
-#main ul li {
-  margin-left: 25px;
-}
+  #main ol li {
+    margin-left: 45px;
+  }
 
 .u-f-small {
   font-size: 1.8rem;
@@ -232,7 +230,7 @@ iframe {margin-bottom: 30px;}
   margin: 0 auto;
   width: 80px;
   height: 80px;
-  padding: 0 0 15px 0;
+  margin: 0 0 15px 0;
 }
 
   @media (min-width: 550px) {

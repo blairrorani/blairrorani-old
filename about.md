@@ -12,7 +12,7 @@ permalink: /about/
 <ul>
 <li>I'm a <a href="http://en.wikipedia.org/wiki/Visual_thinking" target="_blank">hyper-visual thinker</a>. This means I constantly draw pictures and <a href="http://pinterest.com/blairrorani/visual-note-taking/" target="_blank">take notes</a> on my iPad.</li>
 <li>I help my wife to home school our <a href="https://dl.dropboxusercontent.com/u/9514661/rorani-family-2014.jpg" target="_blank">four children</a> (she does 99% of the work).</li>
-<li>I share stuff I like, ideas I have and things I make on <a href="http://blairrorani.tumblr.com">Tumblr</a> and <a href="http://twitter.com/blairrorani">Twitter</a>. PS: I retired <a href="http://twitter.com/@everlearningnow">@everlearningnow</a>.</li>
+<li>Here's how to <a href="/follow">follow me</a> online.</li>
 </ul>
 
 <h2>Past tense</h2>
