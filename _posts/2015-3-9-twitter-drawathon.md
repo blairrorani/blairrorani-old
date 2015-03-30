@@ -76,10 +76,10 @@ Click the links to see everyone's drawings on Twitter.
     </li><li>
       <img src="https://pbs.twimg.com/media/CBJ_J05WgAAecse.jpg"><br>
       <strong>Day 14:</strong>
-      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day14&src=typd" target="_blank">Tower</a> <br><br>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day14&src=typd" target="_blank">Tower</a> (<a href="/drawathon-day-14">my video</a>)<br>
     </li><li>
       <img src="https://pbs.twimg.com/media/CBTO5lEWwAAwtBS.jpg"><br>
-      <strong>Day 15:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day15&src=typd" target="_blank">Sheep</a> <br><br>
+      <strong>Day 15:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day15&src=typd" target="_blank">Sheep</a> (<a href="/drawathon-day-15">my video</a>)<br>
     </li><li>
     <img src="https://pbs.twimg.com/media/CBTQlpAVIAAHFcF.jpg"><br>
     <strong>Day 16:</strong> Surprise! <br><br>
