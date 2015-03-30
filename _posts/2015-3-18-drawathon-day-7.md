@@ -12,4 +12,4 @@ Here's a video of how I drew **a princess**.
 
 <iframe src="https://player.vimeo.com/video/122708004" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Nearly half-way through the draw-a-thon. <a href="/twitter-drawathon">Day 8: a water gun</a>.
+Nearly half-way through the draw-a-thon. <a href="/drawathon-day-8">Day 8: a water gun</a>.

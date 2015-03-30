@@ -12,4 +12,4 @@ Here's a video of how I drew **a tower**.
 
 <iframe src="https://player.vimeo.com/video/123356919" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-So close now. <a href="/twitter-drawathon">Day 15: a sheep</a>.
+So close now. <a href="/drawathon-day-15">Day 15: a sheep</a>.

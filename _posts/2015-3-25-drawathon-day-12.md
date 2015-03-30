@@ -12,4 +12,4 @@ Here's a video of how I drew **a bear**.
 
 <iframe src="https://player.vimeo.com/video/123356921" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Stay on the bandwagon. <a href="/twitter-drawathon">Day 13: a minivan</a>.
+Stay on the bandwagon. <a href="/drawathon-day-13">Day 13: a minivan</a>.

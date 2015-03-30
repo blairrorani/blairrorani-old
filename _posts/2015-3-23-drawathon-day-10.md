@@ -12,4 +12,4 @@ Here's a video of how I drew **a chef**.
 
 <iframe src="https://player.vimeo.com/video/123343139" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Stick with it! <a href="/twitter-drawathon">Day 11: a cowboy</a>.
+Stick with it! <a href="/drawathon-day-11">Day 11: a cowboy</a>.

@@ -12,4 +12,4 @@ Here's a video of how I drew **a water gun**.
 
 <iframe src="https://player.vimeo.com/video/123142946" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Have a go! <a href="/twitter-drawathon">Day 9: a burger</a>.
+Have a go! <a href="/drawathon-day-9">Day 9: a burger</a>.

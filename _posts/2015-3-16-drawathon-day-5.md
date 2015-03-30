@@ -12,4 +12,4 @@ Here's a video of how I drew **an old man with beard**.
 
 <iframe src="https://player.vimeo.com/video/122473348" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Draw like it's 1999. Start today. <a href="/twitter-drawathon">Day 6: poster</a>.
+Draw like it's 1999. Start today. <a href="/drawathon-day-6">Day 6: poster</a>.
