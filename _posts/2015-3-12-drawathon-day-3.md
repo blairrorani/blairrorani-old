@@ -12,4 +12,4 @@ Here's a video of how I drew **money!**.
 
 <iframe src="https://player.vimeo.com/video/122057220" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
-Join in. All the cool kids are doing it. <a href="/twitter-drawathon">Day 4: a dog</a>.
+Join in. All the cool kids are doing it. <a href="/drawathon-day-4">Day 4: a dog</a>.

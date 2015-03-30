@@ -22,26 +22,92 @@ Want to get better at drawing? Do the Twitter draw-a-thon and unleash your *inne
 
 <a name="drawing-of-the-day"></a>
 ## Drawing of the day
-Late to the party? Just start with the latest drawing and go from there!
 
 Click the links to see everyone's drawings on Twitter.
 
-* Day 1: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a> ([my video](/drawathon-day-1))
-* Day 2: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a> ([my video](/drawathon-day-2))
-* Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a> ([my video](/drawathon-day-3))
-* Day 4: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a> ([my video](/drawathon-day-4))
-* *Weekends off!*
-* Day 5: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day5&src=typd" target="_blank">Old man with beard</a> ([my video](/drawathon-day-5))
-* Day 6: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day6&src=typd" target="_blank">Poster</a> ([my video](/drawathon-day-6))
-* Day 7: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day7&src=typd" target="_blank">Princess</a> ([my video](/drawathon-day-7))
-* Day 8: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a> ([my video](/drawathon-day-8))
-* Day 9: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a> ([my video](/drawathon-day-9))
-* *Weekends off!*
-* Day 10: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a> ([my video](/drawathon-day-10))
-* Day 11: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day11&src=typd" target="_blank">Cowboy</a> ([my video](/drawathon-day-11))
-* Day 12: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day12&src=typd" target="_blank">Bear</a> ([my video](/drawathon-day-12))
-* Day 13: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day13&src=typd" target="_blank">Minivan</a> ([my video](/drawathon-day-13))
-* Day 14: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day14&src=typd" target="_blank">Tower</a>
-* *Weekends off!*
-* Day 15: ?
-* Day 16: **Surprise**
+<div class="row faces u-c-txt show-on-phablet">
+  <ul class="special-grid">
+    <li>
+      <a href="" class="hide-link"><img src="https://pbs.twimg.com/media/B_w-o4KU0AA3Gx3.jpg"></a><br>
+      <strong>Day 1:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a> (<a href="/drawathon-day-1">my video</a>) <br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/B_2TgFaVAAISdtR.jpg"><br>
+      <strong>Day 2:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a> (<a href="/drawathon-day-2">my video</a>)
+    </li><li>
+      <img src="https://pbs.twimg.com/media/B_7YorCU8AEZ5oS.jpg"><br>
+      <strong>Day 3:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a> (<a href="/drawathon-day-3">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAKtWuqUUAAblBp.jpg"><br>
+      <strong>Day 4:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a> (<a href="/drawathon-day-4">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAUYTdBUIAA1j2d.jpg"><br>
+      <strong>Day 5:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day5&src=typd" target="_blank">Old man with beard</a> (<a href="/drawathon-day-5">my video</a>)
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAUY91FUkAADJo8.jpg"><br>
+      <strong>Day 6:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day6&src=typd" target="_blank">Poster</a> (<a href="/drawathon-day-6">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAgWR_QWUAEuW3z.jpg"><br>
+      <strong>Day 7:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day7&src=typd" target="_blank">Princess</a> (<a href="/drawathon-day-7">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAhbmF9WUAAoeWs.jpg"><br>
+      <strong>Day 8:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a> (<a href="/drawathon-day-8">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CAu8d-hWAAA7AIg.jpg"><br>
+      <strong>Day 9:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a> (<a href="/drawathon-day-9">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBE1iEAWYAAzpjH.jpg"><br>
+      <strong>Day 10:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a> (<a href="/drawathon-day-10">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBFexS2WYAUxTm-.jpg"><br>
+      <strong>Day 11:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day11&src=typd" target="_blank">Cowboy</a> (<a href="/drawathon-day-11">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBIsxo8WAAAmM6-.jpg"><br>
+      <strong>Day 12:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day12&src=typd" target="_blank">Bear</a> (<a href="/drawathon-day-12">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBJV7TFXIAEsIl8.jpg"><br>
+      <strong>Day 13:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day13&src=typd" target="_blank">Minivan</a> (<a href="/drawathon-day-13">my video</a>)<br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBJ_J05WgAAecse.jpg"><br>
+      <strong>Day 14:</strong>
+      <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day14&src=typd" target="_blank">Tower</a> <br><br>
+    </li><li>
+      <img src="https://pbs.twimg.com/media/CBTO5lEWwAAwtBS.jpg"><br>
+      <strong>Day 15:</strong> <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day15&src=typd" target="_blank">Sheep</a> <br><br>
+    </li><li>
+    <img src="https://pbs.twimg.com/media/CBTQlpAVIAAHFcF.jpg"><br>
+    <strong>Day 16:</strong> Surprise! <br><br>
+    </li>
+  </ul>
+</div>
+
+<div class="show-on-mobile">
+<ul>
+<li>Day 1: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day1&src=typd" target="_blank">Boy</a> (<a href="/drawathon-day-1">my video</a>)</li>
+<li>Day 2: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day2&src=typd" target="_blank">Bucket of water</a> (<a href="/drawathon-day-2">my video</a>)</li>
+<li>Day 3: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day3&src=typd" target="_blank">Money</a> (<a href="/drawathon-day-3">my video</a>)</li>
+<li>Day 4: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day4&src=typd" target="_blank">Dog</a> (<a href="/drawathon-day-4">my video</a>)</li>
+<li><em>Weekends off!</em></li>
+<li>Day 5: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day5&src=typd" target="_blank">Old man with beard</a> (<a href="/drawathon-day-5">my video</a>)</li>
+<li>Day 6: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day6&src=typd" target="_blank">Poster</a> (<a href="/drawathon-day-6">my video</a>)</li>
+<li>Day 7: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day7&src=typd" target="_blank">Princess</a> (<a href="/drawathon-day-7">my video</a>)</li>
+<li>Day 8: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day8&src=typd" target="_blank">Water gun</a> (<a href="/drawathon-day-8">my video</a>)</li>
+<li>Day 9: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day9&src=typd" target="_blank">Burger</a> (<a href="/drawathon-day-9">my video</a>)</li>
+<li><em>Weekends off!</em></li>
+<li>Day 10: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day10&src=typd" target="_blank">Chef</a> (<a href="/drawathon-day-10">my video</a>)</li>
+<li>Day 11: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day11&src=typd" target="_blank">Cowboy</a> (<a href="/drawathon-day-11">my video</a>)</li>
+<li>Day 12: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day12&src=typd" target="_blank">Bear</a> (<a href="/drawathon-day-12">my video</a>)</li>
+<li>Day 13: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day13&src=typd" target="_blank">Minivan</a> (<a href="/drawathon-day-13">my video</a>)</li>
+<li>Day 14: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day14&src=typd" target="_blank">Tower</a></li>
+<li><em>Weekends off!</em></li>
+<li>Day 15: <a href="https://twitter.com/search?q=%23everybodydrawnow%20AND%20%23day15&src=typd" target="_blank">Sheep</a></li></li>
+<li>Day 16: <strong>Surprise!</strong></li>
+</ul>
+
+</div>

@@ -233,6 +233,11 @@ iframe {margin-bottom: 30px;}
   margin: 0 0 15px 0;
 }
 
+  .about-blair .site-avatar {
+    margin: 0 auto;
+    padding: 0 0 15px 0;
+  }
+
   @media (min-width: 550px) {
     .site-avatar {
 
@@ -330,6 +335,40 @@ nav {
   font-weight: 600;
   text-align: center;
 }
+
+/* special grid */
+
+ul.special-grid {
+}
+
+  .special-grid li {
+    width: 250px;
+    height: 250px;
+    max-height: 250px;
+    padding: 15px;
+    list-style: none;
+    display:inline-block;
+      *display:inline; /*IE7*/
+      *zoom:1; /*IE7*/
+      text-align: left;
+  }
+
+  #main ul.special-grid li {
+    margin: 5px;
+    border: 3px solid #ecf0f1;
+  }
+
+  .special-grid img {
+    max-height: 150px;
+  }
+
+  .special-grid .hide-link {
+      border: none;
+  }
+
+  .special-grid a:hover.hide-link {
+      background: none;
+  }
 
 
 /* footer */

@@ -23,9 +23,9 @@ Invite me to connect if:
 
 Otherwise, please **follow me** instead. Here's how.
 
-1. [View my profile](http://linkedin.com/in/blairrorani).
+1. View my profile.
 2. Hover over the drop down next to my photo.
-3. Select **View recent activity**
+3. Select [View recent activity](http://www.linkedin.com/pulse/activities/blair-rorani+0_04Ka02YJqdHY9cCZ6s8UXY?trk=prof-0-sb-rcnt-act-link)
 4. Click **Follow**.
 
 <iframe src="https://player.vimeo.com/video/123464190" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-mobile"></iframe>
