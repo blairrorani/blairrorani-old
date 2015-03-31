@@ -4,7 +4,7 @@ title: Draw-a-thon Day 15
 category: drawing
 ---
 
-Aaand scene. Day 15 is finally here. That's for being part of the journey.
+Aaand scene. Day 15 is finally here. Thanks for being part of the journey.
 
 Here's a video of how I drew **a sheep**.
 
