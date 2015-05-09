@@ -30,7 +30,7 @@ To compound the push button creativity trend, it also seems desirable, if not ex
 
 Which brings me to my main point.
 
-It isn't so much that some people want to be instructional / training / learning designers who find ways around doing actual design. It's more the attitude of wanting something for nothing. It's about putting in the minimum effort (and expense) into a design task and expecting good results. Is this where we want the L and D (or any) industry to end up? I, for one, do not.
+It isn't so much that some people want to be instructional / training / learning designers who find ways around doing actual design. It's more the attitude of wanting something for nothing. It's about putting the minimum effort (and expense) into a design task and expecting good results. Is this where we want the L and D (or any) industry to end up? I, for one, do not.
 
 ## So where to from here?
 
