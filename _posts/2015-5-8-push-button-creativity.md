@@ -22,7 +22,7 @@ While not everyone is *creative* (meaning that they have the skills to create so
 
 If that's where we're heading, will we reach the point where the head of HR (who typically hires other people to creative work) just buys the software, presses a button themselves and all the creative work is done?
 
-I should mentioned that these push button creativity tools exist in many industries, e.g. web design, app development. There is also a difference between tools that help you apply best practices consistently vs. do the creative decision making and work. If you are someone who for who push button creativity is how you work, how valuable are you becoming to your company?
+I should mention that these push button creativity tools exist in many industries, e.g. web design, app development. There is also a difference between tools that help you apply best practices consistently vs. do the creative decision making and work. If you are someone who for who push button creativity is how you work, how valuable are you becoming to your company?
 
 Of course the inevitable problem is that we all start using push button creativity and everything looks the same. A classic example is when a friend and I were pitching for a project and my friend pointed out that an elearning module we were asked to redesign looked identical to another totally unrelated project he had been involved in. It turns out there was a menu template provided in that particular software and the designers of these respective courses had used the exact same one. Is this creative work? The same problem arises with animations, icons, stock photos.
 
