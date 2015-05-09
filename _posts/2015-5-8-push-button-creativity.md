@@ -4,6 +4,8 @@ title: Push Button Creativity
 category: teaching
 ---
 
+![Push Button Creativity](https://db.tt/OYuYYVE1)
+
 Like many of you, I've been to a few learning and development events over the years. It's always interesting to me to observe the general desire for what I like to call *push button creativity*.
 
 Here's how that goes.
