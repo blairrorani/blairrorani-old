@@ -46,8 +46,8 @@ The irony of this push button creativity trend is that we also live in the era p
 * [Lynda](http://lynda.com)
 * [Google Search](http://google.com)
 
-## Pay for everything
+### Pay for everything
 We all have different values. If you're honest then you're honest. The opposite is also true and that's a personal choice. You expect to be paid for the work you do because you believe it's valuable. The people who build software and templates and stock art believe their work is valuable too. Pay them just like you're getting paid.
 
-## Acknowledge creativity
+### Acknowledge creativity
 If you do use push button creativity tools make sure you acknowledge this. Either in your code comments, or a footer of a web site or somewhere. Especially to your client or your manager who is paying you to do creative work. You're not out to get a pay cut or get fired. You're simply being transparent about how you're producing your work. (I don't know for sure, but I imagine it would uncomfortable to pass off push button creativity as your own work only to have a client or manager discover this for themselves and question you about it.)
