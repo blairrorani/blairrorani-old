@@ -41,10 +41,10 @@ The irony of this push button creativity trend is that we also live in the era p
 
 **Resources**
 
-* Treehouse
-* Envato
-* Lynda
-* Google Search
+* [Treehouse](http://teamtreehouse.com)
+* [Tuts+](http://tutsplus.com/)
+* [Lynda](http://lynda.com)
+* [Google Search](http://google.com)
 
 ## Pay for everything
 We all have different values. If you're honest then you're honest. The opposite is also true and that's a personal choice. You expect to be paid for the work you do because you believe it's valuable. The people who build software and templates and stock art believe their work is valuable too. Pay them just like you're getting paid.
