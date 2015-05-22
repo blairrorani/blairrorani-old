@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AITD 2015 Visual Note Taking
+title: AITD 2015 Visual Note-Taking
 category: drawing
 ---
 
