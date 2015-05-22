@@ -4,7 +4,7 @@ title: AITD 2015 Visual Note-Taking
 category: drawing
 ---
 
-![Design thinking vs. ADDIE](https://pbs.twimg.com/media/CE2K9JvUIAAdunp.jpg:large)
+![Visual note-taking at AITD 2015](https://pbs.twimg.com/media/CE13A6EUIAE0i9m.jpg)
 
 I spent a few days at the Australian Institute of Training and Development's 2015 conference in Sydney, Australia.
 
