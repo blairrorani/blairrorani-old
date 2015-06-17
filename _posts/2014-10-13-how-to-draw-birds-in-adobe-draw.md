@@ -4,7 +4,7 @@ title: How to draw birds in Adobe Draw
 category: drawing
 ---
 
-Here are the slides from a brown bag I did for <a href="http://twitter.com/wearemeld" target="_blank">@wearemeld</a> in Sydney, Australia. I taught everyone how to draw on their iPad using Adobe Draw.
+Here are the slides from a brown bag I did for <a href="http://twitter.com/wearemeld" target="_blank">@wearemeld</a> in Sydney, Australia. I taught everyone how to draw on their iPad using Adobe Draw. The drawing birds activity was something I learnt from one of my internet heros [@davegray](http://twitter.com/davegray).
 
 <script async class="speakerdeck-embed" data-id="99fa7de635fc46ab8dd53ace1cce140b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
