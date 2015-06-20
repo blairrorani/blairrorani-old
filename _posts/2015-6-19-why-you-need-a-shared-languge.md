@@ -44,6 +44,6 @@ Together these elements give chefs a shared language they can use to get clarity
 
 ![Apple and apple]({{ site.baseurl }}/images/apple-to-apple.png)
 
-Like chefs we too can use design canvases to solve problems and create change in our businesses. They give us a visual framework within with to brainstorm and make decisions. Most importantly they can help us get clarity, sooner, and give us something tangible to test with stakeholder, learn from and improve.
+Like chefs we too can use design canvases to solve problems and create change in our businesses. They give us a visual framework within which to brainstorm and make decisions. Most importantly they can help us get clarity, sooner, and give us something tangible to test with stakeholder, learn from and improve.
 
 PS: If you've got a design canvas you like please tweet or email me a link with a quick blurb about how you've used it.
