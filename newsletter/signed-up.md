@@ -3,7 +3,14 @@ layout: page
 title: You're all signed up
 ---
 
-You made it. Now on with the learning! Why not start some of my recent newsletters?
+You made it. Now on with the learning! Why not start with some of my recent newsletters?
+
+
+[19 June, 2015 - I'm creating something new creativity](http://us8.campaign-archive2.com/?u=2f1e2a6882720eb32815e0e74&id=4f4bb9ddd1)
+
+[5 June, 2015 - When Information Goes to Jail creativity](http://us8.campaign-archive1.com/?u=2f1e2a6882720eb32815e0e74&id=61c896a272)
+
+[22 May, 2015 - AITD 2015 Visual Note-Taking creativity](http://us8.campaign-archive2.com/?u=2f1e2a6882720eb32815e0e74&id=14661788b4)
 
 [9 May, 2015 - Push button creativity](http://us8.campaign-archive2.com/?u=2f1e2a6882720eb32815e0e74&id=735758967c)
 
