@@ -7,7 +7,7 @@ permalink: /about/
 
 <div class="posts">
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair.png" alt="Photo of Blair Rorani"></p>
-<p>Over the past 10 years I've helped hundreds of people around the world do use design to create change. Currently I teach and practise change design from here in Australia.</p>
+<p>Over the past 10 years I've helped hundreds of people around the world use design to create change. Currently I teach and practise <a href="{{ site.baseurl }}/change-design">change design</a> from here in Australia.</p>
 
 <ul>
 <li>I'm a <a href="http://en.wikipedia.org/wiki/Visual_thinking" target="_blank">hyper-visual thinker</a>. This means I constantly draw pictures and <a href="http://pinterest.com/blairrorani/visual-note-taking/" target="_blank">take notes</a> on my iPad.</li>
