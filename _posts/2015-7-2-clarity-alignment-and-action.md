@@ -39,6 +39,7 @@ Here's an example of a special type of story you can design to get clarity when 
 A problem-solution story contrasts the problems with doing things the current way and the benefits of doing them a new way.
 
 ![broken computer](http://everlearning.com.au/assets/lesson-images/17-broken-computer.png)
+
 "Reginald is a professor here at the Brookings Institute. Late one night he was busy entering all the results of his students final exams into the computer in his classroom. Unfortunately, the computer crashed and Reginald lost all his work. This made Reginald’s boss and his students very upset.
 
 "Reginald and his fellow professors need more reliable computer systems for working with important data like exam results.
