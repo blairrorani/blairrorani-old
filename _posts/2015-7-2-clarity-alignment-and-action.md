@@ -59,4 +59,4 @@ Here are the elements of this problem-solution story:
 * Faster, crash-resistant computers (proposed solution)
 * Auto-save and working remotely and on the train (benefits of changing things)
 
-**How can you use story design to get maximum clarity at the start of a project?**
+**How can you normally get clarity at the start of a project? What is normally painful about this approach? What does this approach help you to gain?**
