@@ -5,6 +5,11 @@ title: You're all signed up
 
 You made it. Now on with the learning! Why not start with some of my recent newsletters?
 
+[17 July 2015 - Doing creative work](http://us8.campaign-archive1.com/?u=2f1e2a6882720eb32815e0e74&id=08cc366b7d)
+
+[10 July 2015 - Teaching and technology](http://us8.campaign-archive1.com/?u=2f1e2a6882720eb32815e0e74&id=cdb4123397)
+
+[2 July 2015 - Getting clarity with story design](http://us8.campaign-archive1.com/?u=2f1e2a6882720eb32815e0e74&id=05797f1759)
 
 [19 June, 2015 - I'm creating something new creativity](http://us8.campaign-archive2.com/?u=2f1e2a6882720eb32815e0e74&id=4f4bb9ddd1)
 
