@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Change Design Newsletter
+title: Free newsletter
 ---
 
 <div class="u-c-txt">
