@@ -1,8 +1,10 @@
 ---
-layout: post 
+layout: post
 title: Apps as coaches
 category: smart-workplaces
 ---
+
+![Apps]({{ site.baseurl }}/images/blog-images/friendly-apps.png)
 
 Messaging apps are becoming a big deal. I personally use [Slack](http://slack.com) all the time, as does my family. The point is, messaging apps are becoming the main communication tools for many people. Here are [some brilliant insights into the possible future of messaging apps](https://blog.intercom.io/messaging-apps-just-getting-started/).
 
