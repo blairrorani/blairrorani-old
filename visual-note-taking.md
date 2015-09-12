@@ -5,8 +5,8 @@ permalink: /visual-note-taking/
 
 ---
 
-  ![Visual note-taking on iPad](visual-note-taking-on-ipad)
-  
+  ![Visual note-taking on iPad]({{ site.baseurl }}/images/visual-note-taking-on-ipad.png)
+
   <h2>Visual note-taking for key-notes, conferences and high-profile presentations</h2>
   <p>You've got a bunch of smart people together and you put them on a stage. Don't let their best ideas turn into a pages of scribbled notes that are never looked at again.</p>
   <p>Sure you can share the slides but most slides are boring, plus the magic is in the speaker and their delivery. Videos are cool if you want to go to the effort, but your audience has to fast forward to see the key points.</p>
