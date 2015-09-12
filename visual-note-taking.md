@@ -1,5 +1,5 @@
 ---
-layout: speaking-consulting
+layout: page
 title: Visual note-taking
 permalink: /visual-note-taking/
 
