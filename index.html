@@ -1,30 +1,34 @@
 ---
-layout: page
-title: Create Change
+layout: default
 ---
 
 {% include what-is-this.html %}
 
-<div class="row">
-  <div class="one-half column">
-    <h2>Hire a designer</h2>
-    <p>I'll work with your team to make your
+<!-- This loops through the paginated posts
+{% for post in paginator.posts %}
+<h1 class="u-c-txt"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-  </div>
-  <div class="one-half column"><h2>Learn design skills</h2></div>
+<div class="content">
+  {{ post.content }}
 </div>
 
-<!--
-<div class="u-c-txt">
-<strong>
-<p>Got a project or training you want to get started?</p>
-Give me a call on <a href="tel:+61-450-105261">+61450105261</a> or send an email to <a href="mailto:blair@rorani.com">blair@rorani.com</a>.
-</strong>
-<p><a href="#" class="button button-primary">Get in touch</a></p>
-<p><a href="#fakelink">See how I can help you</a></p>
-</div>
--->
 
-<!--
-  <p><em>Using design thinking, pictures, stories, games and digital technology I help project teams use design to create change.</em></p>
--->
+  {% endfor %}-->
+
+<div class="posts">
+  {% for post in site.posts limit:1 %}
+  <article class="post">
+
+    <h1><a href="{{ post.url }}">{{ post.title | replace: '-', '-'}}</a></h1>
+    {% include post-author.html%}
+    <div class="entry">
+      {{ post.content }}
+    </div>
+
+  </article>
+  {% endfor %}
+</div>
+
+<div class="row older-newer">
+<p><a href="all-posts">Read more posts like this</a></p>
+</div>
