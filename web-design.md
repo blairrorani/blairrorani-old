@@ -28,9 +28,8 @@ Pretend you are a customer.
 
 **Which website would you rather use - A or B?**
 
-If you said B then let's arrange a time to discuss your project.
-
-(If you said A then please [click here]({{ site.baseurl }}/ftp).)
+* If you said A then please [click here]({{ site.baseurl }}/ftp).
+* If you said B then let's arrange a time to discuss your project.
 
 ---
 
