@@ -2,7 +2,6 @@
 layout: page
 title: Visual note-taking
 permalink: /visual-note-taking/
-
 ---
 
   ![Visual note-taking on iPad]({{ site.baseurl }}/images/visual-note-taking-on-ipad.png)
