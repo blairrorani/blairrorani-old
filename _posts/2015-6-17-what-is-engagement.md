@@ -4,6 +4,8 @@ title: What is engagement?
 category: change-design
 ---
 
+[Read the updated version of this post]({{ site.baseurl }}/creating-engagement)
+
 ![engagement]({{ site.baseurl }}/images/blog-images/engagement.jpg)
 
 
