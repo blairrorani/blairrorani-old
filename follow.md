@@ -33,7 +33,6 @@ Otherwise, please **follow me** instead. Here's how.
 <iframe src="https://player.vimeo.com/video/123464190" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="show-on-phablet"></iframe>
 
 
-### Options 3, 4 and 5
-* I post most of my visual notes on [Pinterest](http://pinterest.com/blairrorani).
-* I use [Tumblr](http://blairrorani.tumblr.com) as my digital scrapbook.
-* I also do some [Instagramming](https://instagram.com/blairrorani/), mainly of family stuff (which gets posted to my Tumblr anyway).
+### Options 3 and 4
+* I post some of my visual notes on [Pinterest](http://pinterest.com/blairrorani).
+* I also do some [Instagramming](https://instagram.com/blairrorani/), mainly of family stuff.
