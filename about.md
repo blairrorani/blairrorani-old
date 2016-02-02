@@ -7,7 +7,7 @@ permalink: /about/
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair-rorani-desktop.png" alt="Photo of Blair Rorani"></p>
 
-I've spent over a decade helping people and organisations around the world to create change. Currently I teach and practise [change design]({{ site.baseurl }}/change-design) from Sydney, Australia.</p>
+I've spent over a decade helping organisations around the world to create change. Currently I teach and practise [change design]({{ site.baseurl }}/change-design) from Sydney, Australia.</p>
 
 
 ## Fun facts
