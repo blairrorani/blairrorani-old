@@ -33,11 +33,11 @@ Change designers use stories, visual communication, games, digital technology an
 
 A quick example that most people can relate to is a healthy diet. Yes you can read a book about healthy diets and recipes. The problem is that this is a tool for information delivery. What are you going to do next?
 
-If you open your smart phone's app store and search for recipe or healthy eating apps, you not only get the recipes but often you can create a shopping list based on the ingredients you are missing from your kitchen, take you phone to the shop and tick off the missing ingredients as you buy them.
+If you open your smart phone's app store and search for recipe or healthy eating apps, you not only get the recipes but often you can create a shopping list based on the ingredients you are missing from your kitchen. Then you can take you phone to the shop and tick off the missing ingredients as you buy them.
 
 Then when you get home you can fire up your app and most likely watch a video of how to prepare the recipe.
 
-Plus if recording exercise, weighing or measuring is part of what you're trying to achieve with your health, the healthy eating or another app can remind to exercise and measure and even help you record you results so you can see you progress.
+Plus if recording exercise, weighing or measuring is part of what you're trying to achieve with your health, the healthy eating or another app can remind you to exercise and measure and even help you record you results so you can see you progress.
 
 So while most businesses are in the mode of training (information delivery), tools that enable action will always be more effective at creating change because they are available in context (where and when you need them) and they provide practical information and even progress tracking.
 
