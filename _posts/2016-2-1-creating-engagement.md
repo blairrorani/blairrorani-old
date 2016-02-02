@@ -11,7 +11,7 @@ Engagement is a super important business word and at the same time it can be a p
 What business people call engagement can be thought of as a combination of **alignment** and **action**.
 
 ## Alignment
-Everyone involved in creating change (deciders and doers) need a shared view of the current world and how the future will be different and better. Priorities, goals, rewards, resources etc. all need to be aligned.
+Everyone involved in creating change (deciders and doers) needs a shared view of the current world and how the future will be different and better. Priorities, goals, rewards, resources etc. all need to be aligned.
 
 Employees and/or customers need to know what problem is being solved, what the proposed solution is and how it will make it easier to achieve a particular thing.
 
@@ -27,7 +27,7 @@ Along with stories change designers use [visuals]({{ site.baseurl }}/visual-lite
 
 If you're in the learning and development or training industry you'll often be asked to design training. Training (think elearning, slides, user guides) are basically tools for providing information (probably with a quiz at the end). These tools typically aren't about producing action. They are focussed on compliance and telling people information before they actually need to use it.
 
-Tools that enable action are used by people practising a skill in a real or simulated situation. Yes you might need to providing information to people while they are practising. The difference between traditional training and enabling action is that people are putting that info to use and referring to it where and when they need it, not just so they can click through another elearning course.
+Tools that enable action are used by people practising a skill in a real or simulated situation. Yes you might need to provide information to people while they are practising. The difference between traditional training and enabling action is that people are putting that info to use and referring to it where and when they need it, not just so they can click through another elearning course.
 
 Change designers use stories, visual communication, games, digital technology and design thinking to create alignment.
 
