@@ -41,4 +41,4 @@ Plus if recording exercise, weighing or measuring is part of what you're trying 
 
 So while most businesses are in the mode of training (information delivery), tools that enable action will always be more effective at creating change because they are available in context (where and when you need them) and they provide practical information and even progress tracking.
 
-**What tools do you use to create change engagement at your company?**
+**What tools do you use to create engagement at your company?**
