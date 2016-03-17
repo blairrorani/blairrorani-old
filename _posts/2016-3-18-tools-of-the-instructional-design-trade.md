@@ -4,7 +4,7 @@ title: Tools of the instructional design trade
 category: teaching
 ---
 
-In my [last post](http://blair.rorani.com/instructional-design-on-a-budget) I commented on what to do if you don’t have the budget to do the work that all the cool kids are doing.
+In my [last post](http://blair.rorani.com/instructional-design-on-a-budget) I commented on what to do if you don’t have the budget to do the work that all the 'cool kids' are doing.
 
 In this post I’m going to share some thoughts on why people see some amazing work and ask: "What tool did you use to build it?""
 
