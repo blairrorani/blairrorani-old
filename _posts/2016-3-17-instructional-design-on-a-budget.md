@@ -45,4 +45,4 @@ The thing is that if you've got access to the Internet and 30 minutes a day then
 ## So ...
 If you see something cool, don't ask about the budget and then kind of say to yourself, "Well we don't make stuff like that because we don't have the same budget." Instead be creative by trying to make something lo-fi or learning how to make the hi-fi thing you liked in the first place.
 
-[(Continue reading part 2 ...)]({{ site.baseurl }}/tools-of-the-instructional-design-trade)
+[(Continue reading part 2 ...)]({{ site.baseurl }}/tools-of-the-trade)
