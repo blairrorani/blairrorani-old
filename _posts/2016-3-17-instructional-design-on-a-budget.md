@@ -1,57 +1,46 @@
 ---
 layout: post
-title: Tools of the instructional design trade
+title: Instructional design on a budget
 category: teaching
 ---
 
-In my [last post](http://blair.rorani.com/instructional-design-on-a-budget) I commented on what to do if you don’t have the budget to do the work that all the cool kids are doing.
+This week I spoke at the [Australian Instructional Design Conference in Sydney, Australia (iDesignX)](http://idesignx.net.au).
 
-In this post I’m going to share some thoughts on why people see some amazing work and ask: "What tool did you use to build it?""
+Here's what I noticed. Every time a company presented a case study showing a successful project that looked 'cool' almost without fail the first questions someone asked were:
 
-When it comes to doing creative work there are so many tools you can choose from. A computer is one of the main tools we use today. Steve Jobs (yes I seem to quote from him a lot these days) described a computer as:
+* What was the budget?
+* What tool did you use to build it?
 
-> “A bicycle for your mind.”
+Now neither of these are bad questions. I'd like to give you my take on both these questions. Let's look at the first one in this post.
 
-First of all, what does a bicycle do for your body?
+## What was the budget?
+Most learning and development projects have limited budgets for a variety of reasons. The thing is, you don't need a lot of money to create fancy animations and eLearning.
 
-It helps you move it from A to B more efficiently than if you were to say walk or maybe run. You still have to tell the bike where to go, make it start, stop, change gears and ring it’s bell (if you’ve got that kind of bike). I guess Steve was using a bicycle as an analogy for how a computer helps us to think and create. You still have to tell it what app to run, enter input (text, photos, videos, your voice), use the mouse, keyboard or your fingers to manipulate that input into something and then tell the computer to print, play, run, publish or share your output.
+I seem to repeat this quote often:
 
-In other words, the tool is only an extension of your brain and body. Which might be where we get the saying:
+> "If the only tool you have is a hammer, then every problem starts to look like a nail." - (Dan Tohill told me that)
 
-> “A poor craftsman (craftsperson?) blames his tools.”
+Expensive eLearning modules aren't the only way (and aren't always the most, appropriate way) to present information, help people practice and get them to take action.
 
-Imagine you met a race car driver who was really good at driving a car. Would you do the following?
+And even if you do create a digital tool such as an eLearning module for your audience, how it looks isn't as important as how it works. In fact, Steve Jobs famously said:
 
-- Ask them what make and model of car they drive.
-- Go and buy the same car.
-- Expect to be able to drive like the race car driver.
+> "Design is how something *works*."
 
-Probably not. Yet, this is kind of what we’re implying when we ask a designer who has showcased some good work what tool they used to build it (and sometimes if the tool is free).
+That means, if an eLearning module or video or animation doesn't look nicely decorated, it can still be powerful.
 
-In case it’s not obvious, it is the many hours, days, weeks and years of driving that allowed the race car driver to produce such a good performance. It was his brain and his hands (and feet I guess) manipulating the car (whatever make and model that happened to be on race day) that were the key.
+So what can you do on a *low* budget?
 
-So what should you do instead of asking about tools?
+## Idea #1: Make a lo-fi version
+Here's a example I saw about six years ago. It shows you how something clearly made on a smart phone can still have the required impact. It's what I'd call lo-fi rather than having highly polished 3D graphics and eye-popping animations.
 
-## Idea #1: Ask what they were thinking
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3mrtu4MmthE" frameborder="0" allowfullscreen></iframe>
 
-Brains and hands (and feet, and now our voices, “Hey Siri …”) are what humans use to manipulate tools to produce output. Start by asking people who do good work how they produced their outputs.
+Cool right? Now I don't know what the budget was for this video but it wouldn't need to be much if you already owned the phone, a whiteboard and some sticky notes :)
 
-Ask:
+## Idea #2: Learn how to make a hi-fi version
+In the past I've written about what I call [push button creativity](http://blair.rorani.com/push-button-creativity). It's the idea that people in creative or design jobs often want templates and icon libraries and stock photos and a tool that pulls them all together into something at the push of a button. There is no problem with licensing other people's creativity (i.e. an eLearning template, a stock photo). There is a whole stock industry that exists for this exact purpose.
 
-- What process did they follow?
-- Where did they draw inspiration from?
-- What decisions did they make and why?
-- What did they learn along the way?
-- What was the hardest part?
+The thing is that if you've got access to the Internet and 30 minutes a day then you can learn how to do pretty much anything. You can take a [course](http://teamtreehouse.com), watch a video on [YouTube](https://www.youtube.com/watch?v=DtaBa6G5a_E), or just find something you like and copy it (for educational purposes only of course).
 
-## Idea #2: Download their thinking, not their tool
-
-Downloading a new authoring tool won’t make you do better work. It’s the brain and ‘body parts’ that manipulate the tools that you need to sprinkle on your next project. Consider paying (using whatever form of payment you agree on) the person for their time and expertise to come and teach your team to apply their thinking to your business challenge. They might even give you some tips about how to use the tools they used, but again it’s their thinking that you can’t download, so that’s what you need to tap into.
-
-## Note
-
-Yes of course it's okay to use the same tool that someone else has used, especially if they used it to do work you admire. Just avoid believing that it is the tool (not the craftsman) that makes the magic. The reality is that the tool was probably the one the craftsman had ‘lying around’ anyway.
-
-## So …
-
-If you see something cool, seek to understand the thinking behind it first, then worry about the tool. We’ve all seen good drivers and bad drivers and have almost never blamed the car they were driving in either case. Believe that you can learn to think like a pro with commitment and lots of practice and then get your tools and do creative work.
+## So ...
+If you see something cool, don't ask about the budget and then kind of say to yourself, "Well we don't make stuff like that because we don't have the same budget." Instead be creative by trying to make something lo-fi or learning how to make the hi-fi thing you liked in the first place.
