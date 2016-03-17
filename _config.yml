@@ -9,7 +9,7 @@
 name: Blair Rorani
 
 # Short bio or description (displayed in the header)
-description: I'm design tools that help companies create change.
+description: I'm helping companies create change.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -73,6 +73,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
