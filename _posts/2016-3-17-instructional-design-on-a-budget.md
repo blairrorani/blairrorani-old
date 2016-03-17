@@ -6,7 +6,7 @@ category: teaching
 
 This week I spoke at the [Australian Instructional Design Conference in Sydney, Australia (iDesignX)](http://idesignx.net.au).
 
-Here's what I noticed. Every time a company presented a case study showing a successful project that looked 'cool' almost without fail the first questions someone asked were:
+Here's what I noticed. Every time a company presented a case study showing a successful project that looked cool almost without fail the first questions someone asked were:
 
 * What was the budget?
 * What tool did you use to build it?
