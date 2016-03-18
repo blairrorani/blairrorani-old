@@ -25,5 +25,5 @@ I've spent over a decade helping organisations around the world to create change
 
 ## How can I help you?
 * <a href="mailto:blair@rorani.com">Hire me to help you create change</a>
-* <a href="../speaking-consulting/speaking.html">Speaking</a>
-* <a href="../speaking-consulting/visual-note-taking.html">Visual-note taking</a>
+* <a href="../speaking-consulting/speaking">Speaking</a>
+* <a href="../speaking-consulting/visual-note-taking">Visual-note taking</a>
