@@ -7,9 +7,9 @@ permalink: /about/
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair-rorani-desktop.png" alt="Photo of Blair Rorani"></p>
 
-I help companies (and everyday people) create change. I’ve worked with organisations like ANZ, Commonwealth Bank, IAG, Vodafone, SafeTrac, the Red Cross and the Government.
+I help companies (and everyday people) [create change]({{ site.baseurl }}/change-design). I’ve worked with organisations like ANZ, Commonwealth Bank, IAG, Vodafone, SafeTrac, the Red Cross and the Government.
 
-Currently I teach and practise [change design]({{ site.baseurl }}/change-design) from Sydney, Australia.
+Currently I teach, speak and consult on large change projects from Sydney, Australia.
 
 ## How can I help you?
 * <a href="mailto:blair@rorani.com">Hire me to help you create change</a>
