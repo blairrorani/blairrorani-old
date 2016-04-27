@@ -1,10 +1,12 @@
 ---
-layout: speaking-consulting
-title: How can I help you?
+layout: page
+title: Speaking
+permalink: /speaking/
 ---
 
-  <h2 id="speaking">Need an interesting speaker for your conference?</h2>
-  <p><img src="https://photos-1.dropbox.com/t/2/AAAHeacXBYhgMDipIoykk0bF2fsD2KELPSSFF64wZjjQJQ/12/9514661/jpeg/2048x1536/3/_/1/2/2014-03-22%2008.46.31.jpg/CKXdxAQgASACIAMoASgC/vLEXBEr7sUUmklURIwJ6mOu4G1dFXIDtxan8CBxiY74"></p>
+  ![Blair speaking at a conference](https://photos-1.dropbox.com/t/2/AAAHeacXBYhgMDipIoykk0bF2fsD2KELPSSFF64wZjjQJQ/12/9514661/jpeg/2048x1536/3/_/1/2/2014-03-22%2008.46.31.jpg/CKXdxAQgASACIAMoASgC/vLEXBEr7sUUmklURIwJ6mOu4G1dFXIDtxan8CBxiY74)
+
+  <h2>Need an interesting speaker for your conference?</h2>
   <p>I speak and run workshops at popular conferences and interesting workplaces on the following topics:</p>
   <ul>
     <li>creative instructional design</li>

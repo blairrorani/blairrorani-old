@@ -8,6 +8,7 @@ permalink: /follow/
 The best way to keep in touch, follow my work and discover interesting ideas is to [subscribe to my newsletter](/newsletter).
 
 ## Choose your social network
+
 ### Option 1: Twitter
 Follow [@blairrorani](http://twitter.com/blairrorani).
 
@@ -34,5 +35,5 @@ Otherwise, please **follow me** instead. Here's how.
 
 
 ### Options 3 and 4
-* I post some of my visual notes on [Pinterest](http://pinterest.com/blairrorani).
-* I also do some [Instagramming](https://instagram.com/blairrorani/), mainly of family stuff.
+* I do some [Instagramming](https://instagram.com/blairrorani/), mainly of family stuff.
+* I also post some of my visual notes on [Pinterest](http://pinterest.com/blairrorani).
