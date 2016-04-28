@@ -15,9 +15,9 @@ permalink: /speaking/
     <li>being more creative</li>
   </ul>
   <h3>Examples</h3>
-  <p>Here are some slides from a recent talk I gave in Melbourne, Australia.</p>
+  <p>Here are some slides from a recent talk I gave in Sydney, Australia.</p>
   <p>
-  <script async class="speakerdeck-embed" data-id="eab05437046a40aea9bcc520ba553427" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  <script async class="speakerdeck-embed" data-id="33555d46a3c6404b9cf47ba74373ec1a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </p>
 <p><a href="https://speakerdeck.com/blairrorani" target="_blank">See more examples</a>.</p>
 <h3>What the people say:</h3>
