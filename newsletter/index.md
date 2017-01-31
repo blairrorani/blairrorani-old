@@ -5,7 +5,7 @@ title: Free newsletter
 
 ![Kramer]({{ site.baseurl }}/images/kramer.gif)
 
-I send free tips, tutorials and ideas about creating change at your company to your inbox each month.
+I send free tips and ideas about employee experience design each week.
 
 No spam. Unsubscribe whenever you want. Just type your name and email below.
 

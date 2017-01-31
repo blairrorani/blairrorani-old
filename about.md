@@ -7,7 +7,7 @@ permalink: /about/
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair-rorani-desktop.png" alt="Photo of Blair Rorani"></p>
 
-I’ve worked on projects with organisations like AMP, ANZ Bank, Commonwealth Bank, IAG, SafeTrac, the Red Cross and Vodafone.
+I’ve worked on projects with organisations like AMP, ANZ Bank, Bupa, Commonwealth Bank, IAG, SafeTrac, the Red Cross and Vodafone.
 
 Currently I teach, speak and design on large change projects from Sydney, Australia.
 
@@ -19,7 +19,9 @@ Currently I teach, speak and design on large change projects from Sydney, Austra
 ## Fun facts
 * I'm a <a target="_blank" href="http://en.wikipedia.org/wiki/Visual_thinking" >hyper-visual thinker</a>. This means I constantly draw pictures and <a href="http://pinterest.com/blairrorani/visual-note-taking/" target="_blank">take notes</a> on my <a href="https://www.instagram.com/p/9-tdK5I9nv/" target="_blank">iPad pro</a>. It helps me learn, think and communicate clearly.
 * I help my wife [Leilani](http://leilani.rorani.com) raise our [four children]({{ site.baseurl}}/images/rorani-family-2015.jpg) (she does most of the work).
-* Here's how to <a href="/follow">follow me</a> online.
+* <li><a href="http://twitter.com/blairrorani" target="_blank">Tweets</a></li>
+* <li><a href="http://linkedin.com/in/blairrorani" target="_blank">LinkedIn</a></li>
+* <li><a href="https://www.instagram.com/blairrorani/Photos" target="_blank">Photos</a></li>.
 
 
 <h2>Past tense</h2>
