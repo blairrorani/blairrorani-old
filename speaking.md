@@ -9,13 +9,11 @@ permalink: /speaking/
   <h2>Need an interesting speaker for your conference?</h2>
   <p>I speak and run workshops at popular conferences and interesting workplaces on the following topics:</p>
   <ul>
-    <li>creative instructional design</li>
+    <li>employee experience (EX) design</li>
     <li>visual communication</li>
-    <li>smart workplaces</li>
-    <li>being more creative</li>
   </ul>
   <h3>Examples</h3>
-  <p>Here are some slides from a recent talk I gave in Sydney, Australia.</p>
+  <p>Here are some slides from a talk I gave in Sydney, Australia.</p>
   <p>
   <script async class="speakerdeck-embed" data-id="33555d46a3c6404b9cf47ba74373ec1a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </p>

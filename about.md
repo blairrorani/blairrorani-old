@@ -7,14 +7,14 @@ permalink: /about/
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair-rorani-desktop.png" alt="Photo of Blair Rorani"></p>
 
-I help companies (and everyday people) [create change]({{ site.baseurl }}/change-design). I’ve worked with organisations like ANZ, Commonwealth Bank, IAG, Vodafone, SafeTrac, the Red Cross and the Government.
+I’ve worked on projects with organisations like AMP, ANZ Bank, Commonwealth Bank, IAG, SafeTrac, the Red Cross and Vodafone.
 
-Currently I teach, speak and consult on large change projects from Sydney, Australia.
+Currently I teach, speak and design on large change projects from Sydney, Australia.
 
 ## How can I help you?
-* <a href="mailto:blair@rorani.com">Hire me to help you create change</a>
-* [Speaking]({{ site.baseurl }}/speaking/)
-* [Visual note-taking]({{ site.baseurl }}/visual-note-taking/)
+* [Run a design sprint to get your project team aligned, then generate, prototype and test creative solutions](mailto:blair@rorani.com)
+* [Speak about employee experience design or visual communication]({{ site.baseurl }}/speaking/)
+* [Visual note-taking for your next conference or internal event]({{ site.baseurl }}/visual-note-taking/)
 
 ## Fun facts
 * I'm a <a target="_blank" href="http://en.wikipedia.org/wiki/Visual_thinking" >hyper-visual thinker</a>. This means I constantly draw pictures and <a href="http://pinterest.com/blairrorani/visual-note-taking/" target="_blank">take notes</a> on my <a href="https://www.instagram.com/p/9-tdK5I9nv/" target="_blank">iPad pro</a>. It helps me learn, think and communicate clearly.
