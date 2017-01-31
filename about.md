@@ -25,7 +25,7 @@ Currently I teach, speak and design on large change projects from Sydney, Austra
 
 
 <h2>Past tense</h2>
-<ul><li>Alumni of <a href="http://inspiregroup.co.nz" target="_blank">Inspire Group</a> award winning, bespoke learning design agency in Wellington, NZ</li>
+<ul><li>Alumni of <a href="http://inspiregroup.co.nz" target="_blank">Inspire Group</a> award winning, bespoke learning design agency in Melbourne, Sydney and Wellington</li>
 <li>Instructional designer and knowledge management specialist at <a href="http://sitel.com" target="_blank">Sitel</a> the global leader in business process outsourcing</li>
 <li>Freelance web designer</li>
 <li><a href="http://www.mormon.org/me/1g1y" target="_blank">Mormon Missionary</a> in the <a href="http://instagram.com/p/t14FAXo9ot/" target="_blank">Australian Outback</a></li>
