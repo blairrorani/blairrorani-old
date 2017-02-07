@@ -4,7 +4,7 @@ title: Even stranger things
 category: tv
 ---
 
-One of my favourite things from 2016 is coming back this Halloween - [Stranger Things Season 2](http://www.imdb.com/title/tt4574334/) on Netflix.
+Yes. One of my favourite things from 2016 is coming back this Halloween - [Stranger Things Season 2](http://www.imdb.com/title/tt4574334/) on Netflix.
 
 Although I'm definitely not into horror movies, for me Stranger Things was more like X-Files, ET, Super 8, and Cloverfield all rolled into one. I felt there was more mystery to be solved vs. jump scares and people getting killed (which was only really alluded to vs. shown in gross detail). So my kind of show.
 
