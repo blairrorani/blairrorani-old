@@ -7,7 +7,7 @@ permalink: /about/
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/images/blair-rorani-desktop.png" alt="Photo of Blair Rorani"></p>
 
-I spend most of my time designing educational tools for banks and other big companies. Some of my work has won awards and I've even judged awards (meta). Sometimes I speak and teach at popular conferences and run design thinking workshops. <a href="http://linkedin.com/in/blairrorani" target="_blank">Here's my LinkedIn profile</a>
+I spend most of my time working with big companies (mostly banks) and solopreneurs to design fun, educational tools that help people take action. Some of my work has won awards and I've even judged awards (meta). Sometimes I speak and teach at popular conferences and run design thinking workshops. <a href="http://linkedin.com/in/blairrorani" target="_blank">Here's my LinkedIn profile</a>
 
 
 ## How can I help you?
@@ -20,7 +20,9 @@ I spend most of my time designing educational tools for banks and other big comp
 * I help my wife [Leilani](http://leilani.rorani.com) raise our [four children]({{ site.baseurl}}/images/rorani-family-2015.jpg) (she does most of the work).
 
 <h2>Past tense</h2>
-<ul><li>Alumni of <a href="http://inspiregroup.co.nz" target="_blank">Inspire Group</a> award winning, bespoke learning design agency in Melbourne, Sydney and Wellington</li>
+
+<ul>
+<li>Alumni of <a href="http://inspiregroup.co.nz" target="_blank">Inspire Group</a> award winning, bespoke learning design agency in Melbourne, Sydney and Wellington</li>
 <li>Instructional designer and knowledge management specialist at <a href="http://sitel.com" target="_blank">Sitel</a> the global leader in business process outsourcing</li>
 <li>Freelance web designer</li>
 <li><a href="http://www.mormon.org/me/1g1y" target="_blank">Mormon Missionary</a> in the <a href="http://instagram.com/p/t14FAXo9ot/" target="_blank">Australian Outback</a></li>
