@@ -2,7 +2,7 @@
 
 .container {
   max-width: 680px;
-  min-height: 600px;
+  min-height: 300px;
 }
 
 .post {
@@ -231,15 +231,10 @@ iframe {margin-bottom: 30px;}
   float: none;
   display: block;
   margin: 0 auto;
-  width: 80px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   margin: 0 0 15px 0;
 }
-
-  .about-blair .site-avatar {
-    margin: 0 auto;
-    padding: 0 0 15px 0;
-  }
 
   @media (min-width: 550px) {
     .site-avatar {
@@ -262,7 +257,7 @@ iframe {margin-bottom: 30px;}
     }
   }
 
-  .site-avatar img {
+  img.site-avatar {
     border-radius: 50%;
   }
     a.site-avatar {
