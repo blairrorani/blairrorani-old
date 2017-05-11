@@ -2,7 +2,7 @@
 
 .container {
   max-width: 680px;
-  min-height: 300px;
+  min-height: 100%;
 }
 
 .post {
@@ -16,7 +16,7 @@ body  {
   font-size: 1.8em;
   border: 10px solid #2ECC71;
   color: #2c3e50;
-  padding-top: 30px;
+  padding-top: 60px;
 }
 
 h1, h2, h3 {
