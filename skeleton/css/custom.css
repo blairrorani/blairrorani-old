@@ -231,8 +231,8 @@ iframe {margin-bottom: 30px;}
   float: none;
   display: block;
   margin: 0 auto;
-  width: 150px;
-  height: 150px;
+  width: 80px;
+  height: 80px;
   margin: 0 0 15px 0;
 }
 
@@ -243,8 +243,7 @@ iframe {margin-bottom: 30px;}
   }
 
   @media (min-width: 750px) {
-    .button-menu .site-avatar {
-
+     .site-avatar {
       float: left;
       display: inline;
     }
@@ -252,12 +251,11 @@ iframe {margin-bottom: 30px;}
 
   @media (min-width: 1000px) {
     .site-avatar {
-      width: 300px;
-      height: 300px;
+
     }
   }
 
-  img.site-avatar {
+  .site-avatar img {
     border-radius: 50%;
   }
     a.site-avatar {
