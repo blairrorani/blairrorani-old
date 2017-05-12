@@ -8,9 +8,10 @@ description: Stuff I like, ideas I have, lesson I learn, and things I make.
 <div class="posts">
   <ul>
   {% for post in site.posts %}
-
-    <li><span class="u-f-big"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span> #{{ post.category | replace: '-', ' '}}</li>
-
+       {% if post.category == "old" %}
+       {% else if %}
+       <li><span class="u-f-big"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span> #{{ post.category | replace: '-', ' '}}</li>
+       {% endif %}
   {% endfor %}
 </ul>
 </div>
@@ -29,5 +30,3 @@ description: Stuff I like, ideas I have, lesson I learn, and things I make.
   <span class="previous">Newer</span>
   {% endif %}-->
   <!--<span class="page_number ">Post: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
-
-</div>
