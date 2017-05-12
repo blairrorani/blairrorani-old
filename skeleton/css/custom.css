@@ -16,7 +16,7 @@ body  {
   font-size: 1.8em;
   border: 10px solid #2ECC71;
   color: #2c3e50;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 
 h1, h2, h3 {
@@ -374,18 +374,22 @@ ul.special-grid {
 
 /* footer */
 
-.footer-links ul {
+.link-list ul {
     margin-top: 60px;
 }
 
-  .footer-links li {
+  .link-list li {
     display: inline-block;
-    padding-left: 15px;
     padding-right: 15px;
+    margin-left: 0px !important;
+  }
+
+  .link-list li:last-child-child {
+    padding-right: 0;
   }
 
 .footer {
-  padding-top: 60px;
+  padding-top: 30px;
   color: #7f8c8d;
 }
 
