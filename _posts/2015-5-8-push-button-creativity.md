@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Push Button Creativity
-category: teaching
+category: old
 ---
 
 ![Push Button Creativity](https://db.tt/OYuYYVE1)
