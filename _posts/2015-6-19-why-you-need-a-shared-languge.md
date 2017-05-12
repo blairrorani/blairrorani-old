@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why you need a shared language
-category: change-design
+category: everybody-draw-now
 ---
 
 ![Apple and a triangle]({{ site.baseurl }}/images/apple-triangle.png)
@@ -9,7 +9,7 @@ category: change-design
 
 When it comes to solving business problems it is usually quite an unstructured, messy process. One of the main reasons is that we don't have a shared language to use when discussing the change we want to see in a business. This makes it difficult, if not impossible, to get clarity on what we need to change and why.
 
-You may have seen the <a href="http://img.pandawhale.com/159329-Software-Engineering-Tree-Swin-iqRE.png" target="_blank">tree swing diagram</a> depicting what often happens to most change projects.
+You may have seen the [tree swing diagram](http://img.pandawhale.com/159329-Software-Engineering-Tree-Swin-iqRE.png) depicting what often happens to most change projects.
 
 I've tried to come up with an explanation of what role a shared language can play in helping business teams get clarity when they are trying to create change. Let's look at Chefs as an example.
 
@@ -45,5 +45,3 @@ Together these elements give chefs a shared language they can use to get clarity
 ![Apple and apple]({{ site.baseurl }}/images/apple-to-apple.png)
 
 Like chefs we too can use design canvases to solve problems and create change in our businesses. They give us a visual framework within which to brainstorm and make decisions. Most importantly they can help us get clarity, sooner, and give us something tangible to test with stakeholders, learn from and improve on.
-
-PS: If you've got a design canvas you like please tweet or email me a link with a quick blurb about how you've used it.

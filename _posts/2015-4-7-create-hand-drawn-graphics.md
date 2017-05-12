@@ -10,4 +10,4 @@ Tom Kuhlmann featured my work and my new book [Everybody Draw Now](http://everyb
 
 His post is a nice round up of how to get better at drawing for work purposes and is the third in a series of posts about [visual thinking and communication](http://www.articulate.com/rapid-elearning/practice-visual-thinking-skills-apply-e-learning).
 
-If you don't already know, Tom is probably the most famous elearning blogger there is. Here runs the community over at Articulate. You should [subscribe to get his updates](http://www.articulate.com/rapid-elearning/about-tom/) and his free e-book.
+If you don't already know, Tom is probably the most famous eLearning blogger there is. Here runs the community over at Articulate. You should [subscribe to get his updates](http://www.articulate.com/rapid-elearning/about-tom/) and his free e-book.
