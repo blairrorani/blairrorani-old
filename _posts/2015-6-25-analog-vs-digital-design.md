@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analog vs. Digital Design
-category: change-design
+category: old
 ---
 
 ![Apps](http://i2.wp.com/boingboing.net/wp-content/uploads/2015/06/Screen-Shot-2015-06-16-at-11.50.32-AM.png?resize=600%2C332)

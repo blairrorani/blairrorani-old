@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create your own hand-drawn graphics
-category: drawing
+category: old
 ---
 
 <img src="https://static-2.gumroad.com/res/gumroad/files/2287765296018/29c58b140e5b4f2eaf5a3f1953f8c7f0/original/edn-book-cover-700.png" alt="Everybody Draw Now cover">

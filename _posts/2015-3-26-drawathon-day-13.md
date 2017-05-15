@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 13
-category: drawing
+category: old
 ---
 
 Day 13 / 15. Don't stop now!

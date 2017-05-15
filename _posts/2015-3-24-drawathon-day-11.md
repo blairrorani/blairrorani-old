@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 11
-category: drawing
+category: old
 ---
 
 Let's get into day 11.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 15
-category: drawing
+category: old
 ---
 
 Aaand scene. Day 15 is finally here. Thanks for being part of the journey.

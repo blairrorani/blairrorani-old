@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 12
-category: drawing
+category: old
 ---
 
 "You've lost the *drawing* feeling". Day 12.

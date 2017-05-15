@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apps as coaches
-category: smart-workplaces
+category: old
 ---
 
 ![Apps]({{ site.baseurl }}/images/blog-images/friendly-apps.png)

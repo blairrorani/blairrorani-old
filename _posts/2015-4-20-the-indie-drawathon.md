@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The indie draw-a-thon
-category: drawing
+category: old
 ---
 
 <img src="https://pbs.twimg.com/media/CCaj1wKW0AAA7Pf.jpg" alt="emoticons">

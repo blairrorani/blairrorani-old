@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 10
-category: drawing
+category: old
 ---
 
 It's day 10 and we're on the home straight.

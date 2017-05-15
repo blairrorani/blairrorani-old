@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why you need a shared language
-category: everybody-draw-now
+category: old
 ---
 
 ![Apple and a triangle]({{ site.baseurl }}/images/apple-triangle.png)

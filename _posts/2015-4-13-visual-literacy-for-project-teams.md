@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual literacy for project teams
-category: drawing
+category: visual-communication
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/9514661/visual-literacy.png" alt="customer, consultant, crm">

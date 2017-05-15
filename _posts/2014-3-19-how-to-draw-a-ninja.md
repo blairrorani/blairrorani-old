@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to draw a ninja
-category: drawing
+category: visual-communication
 ---
 
 Here are the slides from a talk I gave at iDesignX 2014 in Sydney, Australia. I talked about creating visual job aids using stories and pictures.

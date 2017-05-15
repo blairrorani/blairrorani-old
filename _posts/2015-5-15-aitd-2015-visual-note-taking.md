@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AITD 2015 Visual Note-Taking
-category: drawing
+category: old
 ---
 
 ![Visual note-taking at AITD 2015](https://pbs.twimg.com/media/CE13A6EUIAE0i9m.jpg)

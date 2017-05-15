@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draw-a-thon Day 14
-category: drawing
+category: old
 ---
 
 One. More. Drawing. We're at day 14 out of 15.
