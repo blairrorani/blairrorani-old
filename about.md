@@ -16,7 +16,7 @@ Some of my work has won awards and I've even judged awards (meta). Sometimes I s
 
 ## How can I help you?
 * [Run a design sprint to get your stakeholders aligned and then come up with cool ideas to prototype and test](mailto:blair@rorani.com)
-* [Speak about employee experience design or visual communication]({{ site.baseurl }}/speaking/)
+* [Speak about visual communication]({{ site.baseurl }}/speaking/)
 * [Visual note-taking for your next conference or internal event]({{ site.baseurl }}/visual-note-taking/)
 
 ## Fun facts
