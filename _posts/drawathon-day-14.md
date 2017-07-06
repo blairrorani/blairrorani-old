@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Draw-a-thon Day 14
+layout: post
 category: drawing
 ---
 

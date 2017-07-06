@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Instructional design on a budget
+layout: post
 category: teaching
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: plain-jane
 title: Make Your Website Work on Mobile Phones
-permalink: /web-design/
+permalink: "/web-design/"
+layout: plain-jane
 ---
 
 Whether or not you have a website I can make sure it's easy for people to view and interact with it on their mobile devices. Plus it will look cool.

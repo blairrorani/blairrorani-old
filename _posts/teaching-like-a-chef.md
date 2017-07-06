@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Teaching Like a Chef
+layout: post
 category: teaching
 ---
 

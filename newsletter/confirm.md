@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Almost there
+layout: page
 ---
 
 1. Go to your inbox now (really, go there!)

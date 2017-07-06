@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Lessons from Steve Jobs
-category: drawing
+date: 2014-11-24 00:00:00 Z
+categories:
+- drawing
+layout: post
 ---
 
 <img src="https://m1.behance.net/rendition/modules/144352317/hd/c970694414cf026f4ddeb760c762b336.jpeg">

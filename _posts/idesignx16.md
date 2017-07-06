@@ -1,6 +1,6 @@
 ---
-layout: post
 title: SASSy instructional design
+layout: post
 category: change-design
 ---
 

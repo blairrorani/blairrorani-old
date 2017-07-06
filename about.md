@@ -1,9 +1,8 @@
 ---
-layout: about
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: about
 ---
-
 
 <p style="margin-bottom: 30px;" class="u-c-txt"><img src="{{ site.baseurl }}/blair-rorani-cover-pic.png" alt="Photo of Blair Rorani"></p>
 

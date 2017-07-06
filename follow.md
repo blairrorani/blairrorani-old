@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Follow me
-permalink: /follow/
+permalink: "/follow/"
+layout: page
 ---
 
 ## Start here

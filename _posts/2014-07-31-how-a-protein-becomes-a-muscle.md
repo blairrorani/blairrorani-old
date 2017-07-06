@@ -1,7 +1,9 @@
 ---
-layout: post
 title: How a protein becomes a muscle
-category: teaching
+date: 2014-07-31 00:00:00 Z
+categories:
+- teaching
+layout: post
 ---
 
 Today we're breaking down of an explainer video. The purpose of this post is to break down the elements of the video and analyse why it does or doesn't work well as a communication resource.

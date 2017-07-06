@@ -1,6 +1,6 @@
 ---
-layout: post
 title: I'm creating something new
+layout: post
 category: change-design
 ---
 

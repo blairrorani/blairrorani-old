@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Getting Clarity with Story Design
+layout: post
 category: change-design
 ---
 

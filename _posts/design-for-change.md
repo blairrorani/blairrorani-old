@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Design for change
+layout: post
 category: change-design
 ---
 

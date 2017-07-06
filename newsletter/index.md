@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Free newsletter
+layout: page
 ---
 
 ![Kramer]({{ site.baseurl }}/images/kramer.gif)

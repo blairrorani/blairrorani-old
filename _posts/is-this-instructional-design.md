@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Is this instructional design?
+layout: post
 category: teaching
 ---
 

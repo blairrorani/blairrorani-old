@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Speaking
-permalink: /speaking/
+permalink: "/speaking/"
+layout: page
 ---
 
   ![Blair speaking at a conference](https://photos-1.dropbox.com/t/2/AAAHeacXBYhgMDipIoykk0bF2fsD2KELPSSFF64wZjjQJQ/12/9514661/jpeg/2048x1536/3/_/1/2/2014-03-22%2008.46.31.jpg/CKXdxAQgASACIAMoASgC/vLEXBEr7sUUmklURIwJ6mOu4G1dFXIDtxan8CBxiY74)

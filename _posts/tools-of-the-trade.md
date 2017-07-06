@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Tools of the instructional design trade
+layout: post
 category: teaching
 ---
 

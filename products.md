@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Products
-permalink: /products/
+permalink: "/products/"
+layout: page
 ---
 
 ## [Teach Like a Chef]()

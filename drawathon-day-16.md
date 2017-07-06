@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Draw-a-thon Day 16
-permalink: /drawathon-day-16/
+permalink: "/drawathon-day-16/"
+layout: page
 ---
 
 Surprise!

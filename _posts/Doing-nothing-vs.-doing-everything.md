@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Doing nothing vs. doing everything
+layout: post
 category: teaching
 ---
 

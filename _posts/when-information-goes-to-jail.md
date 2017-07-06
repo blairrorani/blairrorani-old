@@ -1,6 +1,6 @@
 ---
-layout: post
 title: When information goes to jail
+layout: post
 category: teaching
 ---
 

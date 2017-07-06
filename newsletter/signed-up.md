@@ -1,6 +1,6 @@
 ---
-layout: page
 title: You're all signed up
+layout: page
 ---
 
 You made it. Now on with the learning! Why not start with some of my recent newsletters?

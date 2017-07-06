@@ -1,7 +1,9 @@
 ---
-layout: post
 title: How to draw on your iPad
-category: drawing
+date: 2014-11-13 00:00:00 Z
+categories:
+- drawing
+layout: post
 ---
 
 If you take notes at conferences, give presentations, have to explain things at meetings, or write proposals or reports, drawing can be an extremely valuable skill.
