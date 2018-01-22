@@ -2,20 +2,30 @@
 layout: default
 ---
 
-{% include what-is-this.html %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<article class="post">
-  <h1 class="u-c-txt">{{ page.title }}</h1>
+  <header class="post-header">
+    <p class="post-meta">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:  "%-d %B %Y" }}</time>
+      {% if page.author.link %}
+        by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ page.author.link}}" target="_blank">{{ page.author.name }}</a></span></span>
+      {% elsif page.author.name %}
+        by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author.name }}</span></span>
+      {% else %}
 
-  {% include author.html%}
+      {% endif %}
+    </p>
+  </header>
 
-  <div class="entry">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-<p class="u-c-txt"><a href="/{{ page.category}}">#{{ page.category | replace: '-', ' ' }}</a></p>
-
-{% include share.html %}
 
 </article>
 
-{% include blog-paging.html %}
+<ul class="list-the-tags">
+{% for tag in page.tags %}
+    <li>#{{tag}}</li>
+{% endfor %}
+</ul>
+
+{% include post-footer.html %}

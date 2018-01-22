@@ -1,5 +1,5 @@
 ---
-title: blair.rorani.com
+title: Blair Rorani
 timezone: Australia/Sydney
 collections:
   posts:
@@ -8,38 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Blair Rorani
-description: I design educational resources that turn beginners into experts
-avatar: 
-link-list:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
-  github: 
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: 
-  twitter: 
-  stackoverflow: 
-disqus: 
-google_analytics: UA-18786151-1
+email: blair@rorani.com
+description: 'I design simple, visual tools to help people get better at things.
+'
+baseurl:
 url: http://blair.rorani.com
-baseurl: 
-paginate: 1
-paginate_path: "/:num/"
-highlighter: rouge
-permalink: "/:title/"
-version: v1.0.0
-sass:
-  sass_dir: _scss
-  style: expanded
-gems:
-- jekyll-sitemap
-- jekyll-paginate
-exclude:
-- Gemfile
-- Gemfile.lock
-- LICENSE
-- README.md
+twitter_username: blairrorani
+github_username:
+markdown: kramdown
+ig_username: blairrorani
