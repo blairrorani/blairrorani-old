@@ -4,7 +4,7 @@ date: 2018-01-24 16:34:00 +11:00
 categories:
 - ways of working
 tags:
-- decision making
+- decisionmaking
 ---
 
 I listened to [The Product Breakfast Club podcast](https://rss.simplecast.com/podcasts/3985/rss) episode 8: How to make better decisions, faster. It's made by Jonathan from [AJ & Smart](https://ajsmart.com) and [Jake Knapp](https://jakeknapp.com), author of the 'Sprint' book.
