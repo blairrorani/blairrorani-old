@@ -1,5 +1,5 @@
 ---
-title: Making decisions
+title: Making faster decisions
 date: 2018-01-24 16:34:00 +11:00
 categories:
 - ways of working
