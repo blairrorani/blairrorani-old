@@ -5,7 +5,7 @@ tags:
 - decisionmaking
 ---
 
-I listened to [The Product Breakfast Club podcast](https://rss.simplecast.com/podcasts/3985/rss) episode 8: How to make better decisions, faster. It's made by Jonathan from [AJ & Smart](https://ajsmart.com) and [Jake Knapp](https://jakeknapp.com), author of the 'Sprint' book.
+I listened to [The Product Breakfast Club podcast](https://www.productbreakfastclub.com) episode 8: How to make better decisions, faster. It's made by Jonathan from [AJ & Smart](https://ajsmart.com) and [Jake Knapp](https://jakeknapp.com), author of the 'Sprint' book.
 
 Lesson learned: When you're having meetings and making decisions as a team, then you need to use an agreed process for making decisions.
 
