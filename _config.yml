@@ -10,9 +10,9 @@ collections:
     output: true
 email: blair@rorani.com
 description: 'Designer of practical, visual, educational things. '
-baseurl:
+baseurl: 
 url: http://blair.rorani.com
 twitter_username: blairrorani
-github_username:
+github_username: 
 markdown: kramdown
 ig_username: blairrorani
