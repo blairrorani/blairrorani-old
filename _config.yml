@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: blair@rorani.com
-description: 'I design simple, visual tools to help people get better at things. '
-baseurl: 
+description: 'Designer of practical, visual, educational things. '
+baseurl:
 url: http://blair.rorani.com
 twitter_username: blairrorani
-github_username: 
+github_username:
 markdown: kramdown
 ig_username: blairrorani
