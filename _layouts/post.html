@@ -23,7 +23,7 @@ layout: default
 </article>
 
 <ul class="list-the-tags">
-{% for category in page.categories %}
-    <li>Posted in {{category}}</li>
+{% for tag in page.tags %}
+    <li>#{{tag}}</li>
 {% endfor %}
 </ul>
