@@ -9,6 +9,7 @@ tags:
 - nintendo
 - labo
 - consoles
+author: Blair Rorani
 layout: post
 ---
 
