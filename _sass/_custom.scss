@@ -1,8 +1,4 @@
 /**
- * custom styling
- */
-
-/**
  * base styling
  */
  h1, h2, h3, h4, h5, h6 {
@@ -39,7 +35,7 @@
          margin-bottom: 0;
      }
 
-     margin-top: 30px;
+     margin-bottom: 30px;
  }
 
 /**
@@ -214,3 +210,18 @@ iframe {
   margin-bottom: 30px;
   max-width: 100%;
 }
+
+/**
+ * custom styling
+ */
+
+ h2 {
+   margin-top: 30px;
+ }
+
+ .site-header {
+   background-image: url(/images/drawings-for-header.png);
+ }
+ .site-header h2 {
+   text-shadow: #fff 2px 0 10px;
+ }
