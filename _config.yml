@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: blair@rorani.com
-description: Visual communicator, problem solver, and coach.
-baseurl: 
+description: Creator of practical, visual, educational content since 2002.
+baseurl:
 url: http://blair.rorani.com
 twitter_username: blairrorani
-github_username: 
+github_username:
 markdown: kramdown
 ig_username: blairrorani
