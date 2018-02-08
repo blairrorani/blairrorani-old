@@ -2,14 +2,8 @@
 title: Jake's formula
 date: 2018-02-06 10:01:00 +11:00
 permalink: jakes-formula
-tags:
-- teaching
-- spring
-- books
-- workshops
-- coaching
-author:
-  name: Blair Rorani
+categories:
+- businesstime
 layout: post
 ---
 

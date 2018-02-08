@@ -3,7 +3,7 @@ title: Making better decisions, faster
 date: 2018-01-24 09:00:00 +11:00
 permalink: making-better-decisions-faster
 categories:
-- working
+- gettingworkdone
 layout: post
 ---
 
