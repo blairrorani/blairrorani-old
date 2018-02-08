@@ -8,6 +8,8 @@ tags:
 - books
 - workshops
 - coaching
+author:
+  name: Blair Rorani
 layout: post
 ---
 
