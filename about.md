@@ -12,4 +12,4 @@ Along the way he's learned valuable lessons about how to communicate visually, h
 
 Now Blair teaches these lessons to others at Kea School.
 
-(He also draws [a ton of pics](https://www.pinterest.com.au/blairrorani/visual-note-taking/) on his iPad.)
+(He also draws [a ton of pics](https://www.pinterest.com/blairrorani) on his iPad.)
