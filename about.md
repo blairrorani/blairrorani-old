@@ -12,6 +12,6 @@ Blair has designed educational illustrations, animations, guides, infographics, 
 
 Along the way he's learned valuable lessons about how to communicate visually, how to make decisions and solve problems as a team, how to understand and use digital technology, and most importantly, how to learn new things quickly.
 
-Now Blair teaches these lessons to others at Kea School.
+Now Blair teaches these lessons to others at [Kea School](http://keaschool.com), and educational 'company of one'.
 
 (He also draws [a ton of pics](https://www.pinterest.com/blairrorani) on his iPad.)
