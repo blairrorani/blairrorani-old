@@ -56,8 +56,8 @@
  .site-header {
      border: none;
      padding-top: 15px;
-     padding-bottom: 30px;
-     margin-bottom: 30px;
+     /*padding-bottom: 30px;
+    margin-bottom: 30px;*/
   /*   background-color: #27ae60;*/
     background-color: #fff;
      color: $midnight-blue;
@@ -220,6 +220,10 @@ iframe {
    margin-top: 30px;
  }
 
+ blockquote {
+   margin-top: 60px;
+ }
+
  .site-header {
    background-image: url(/images/drawings-for-header.png);
    background-repeat: no-repeat;
@@ -229,3 +233,8 @@ iframe {
  .site-header h2 {
    text-shadow: #fff 2px 0 10px;
  }
+
+.page-content {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}

@@ -1,6 +1,6 @@
 ---
 title: About Blair
-permalink: "/about/"
+permalink: "/bio/"
 layout: about
 ---
 

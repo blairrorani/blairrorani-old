@@ -48,11 +48,14 @@ $base-font-family: 'Nunito Sans', Helvetica, Arial, sans-serif;
 $headings-font-family: 'Nunito', Helvetica, Arial, sans-serif;
 $base-font-size: 20px;
 $text-color: #2c3e50;
-$link-color: #27ae60;
+$light-green: #27ae60;
 $highlighter-color: #eaff00;
 $concrete-color: #95a5a6;
 $background-color: #ffffff;
 $midnight-blue: #2c3e50;
+$peter-river: #3498db;
+
+$link-color: $light-green;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
