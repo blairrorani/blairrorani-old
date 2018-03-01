@@ -1,5 +1,5 @@
 ---
-title: School (not education) kill creativity
+title: Schools (not education) kill creativity
 date: 2018-02-06 00:00:00 +11:00
 permalink: jakes-formula
 categories:
