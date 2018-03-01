@@ -1,5 +1,8 @@
 ---
-title: 2018 02 04 Shortcut O Matic
+title: Shortcut-o-Matic
+layout: post
+permalink: shortcut-o-matic
+category: Life hacks
 ---
 
 Jonathan Courtney from AJ & Smart shared this cool little tool called the [Shortcut-o-matic](https://medium.muz.li/shortcut-o-matic-a-simple-exercise-that-will-improve-your-life-immediately-1b2a98c355a7) to make your life easier.
