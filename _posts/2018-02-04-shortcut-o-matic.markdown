@@ -1,6 +1,6 @@
 ---
 title: Shortcut-o-Matic
-date: 2018-03-01 00:00:00 +11:00
+date: 2018-02-04 00:00:00 +11:00
 permalink: shortcut-o-matic
 categories:
 - Life hacks
