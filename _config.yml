@@ -10,9 +10,9 @@ collections:
     output: true
 email: blair@rorani.com
 description: Creator of practical, visual, educational content since 2002.
-baseurl: 
+baseurl:
 url: http://blair.rorani.com
-twitter_username: blairrorani
-github_username: 
+twitter_usernamde: blairrorani
+github_username:
 markdown: kramdown
 ig_username: blairrorani
