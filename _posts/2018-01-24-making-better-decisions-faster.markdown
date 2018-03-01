@@ -1,8 +1,10 @@
 ---
 title: Making better decisions, faster
-layout: post
+date: 2018-01-24 00:00:00 +11:00
 permalink: making-better-decisions-faster
-category: Working
+categories:
+- Working
+layout: post
 ---
 
 I listened to [The Product Breakfast Club podcast](https://www.productbreakfastclub.com) episode 8: How to make better decisions, faster. It's made by Jonathan from [AJ & Smart](https://ajsmart.com) and [Jake Knapp](https://jakeknapp.com), author of the 'Sprint' book.

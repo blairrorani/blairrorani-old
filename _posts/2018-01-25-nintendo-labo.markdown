@@ -1,8 +1,10 @@
 ---
 title: Nintendo Labo
-layout: post
+date: 2018-01-25 00:00:00 +11:00
 permalink: nintendo-labo
-category: Tech
+categories:
+- Tech
+layout: post
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P3Bd3HUMkyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
