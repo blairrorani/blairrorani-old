@@ -1,10 +1,8 @@
 ---
 title: Jake's formula
-date: 2018-02-06 10:01:00 +11:00
-permalink: jakes-formula
-categories:
-- businesstime
 layout: post
+permalink: jakes-formula
+category: Business
 ---
 
 Jake Knapp of [the Sprint book](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas-ebook/dp/B010MH1DAQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1517870511&sr=1-1) fame is working on a new book. (You can get a sneak peak at it [on Amazon](https://www.amazon.com/Make-Time-Distraction-Energy-Matters-ebook/dp/B078QSCM3V).)

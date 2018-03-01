@@ -1,9 +1,8 @@
 ---
 title: Shortcut-o-Matic
 layout: post
-category: organising
-permalink: "/shortcut-o-matic/"
-
+permalink: shortcut-o-matic
+category: Getting stuff done
 ---
 
 Jonathan Courtney from AJ & Smart shared this cool little tool called the [Shortcut-o-matic](https://medium.muz.li/shortcut-o-matic-a-simple-exercise-that-will-improve-your-life-immediately-1b2a98c355a7) to make your life easier.
