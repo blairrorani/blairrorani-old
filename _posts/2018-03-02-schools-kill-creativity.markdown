@@ -1,7 +1,7 @@
 ---
 title: Schools (not education) kill creativity
-date: 2018-02-06 00:00:00 +11:00
-permalink: jakes-formula
+date: 2018-03-02 00:00:00 +11:00
+permalink: schools-kill-creativity
 categories:
 - Education
 layout: post

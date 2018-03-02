@@ -1,1 +1,10 @@
 {% if page.tagline %}<h2>{{ page.tagline | escape }}</h2>{% endif %}
+
+<ul>
+  {% for post in site.posts %}
+    <div style="margin-bottom: 60px;">
+      <h2>{{ post.title }}</h2>
+    {{ post.content }}
+    </div>
+  {% endfor %}
+</ul>
