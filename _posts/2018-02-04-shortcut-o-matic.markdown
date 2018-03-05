@@ -3,7 +3,7 @@ title: Shortcut-o-Matic
 date: 2018-02-04 00:00:00 +11:00
 permalink: shortcut-o-matic
 categories:
-- Life hacks
+- Lifehacks
 layout: post
 ---
 

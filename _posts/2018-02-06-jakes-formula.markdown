@@ -20,6 +20,4 @@ So Jake's formula is:
 5. Run workshops (like a book tour that you get paid for)
 6. Coach / consult
 
-✅
-
-This formula is obviously not unique to Jake. The point is: it's a good one.
+This formula is obviously not unique to Jake, but he point is: it's a good one.

@@ -1,16 +1,24 @@
 ---
-title: All the posts
+title: Blog
 layout: default
 ---
 
-<div class="home">
+<h2>Posts by category</h2>
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="/category/{{ category | first}}">{{ category | first }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-</div>
+<h2>All the posts 🎪</h2>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
