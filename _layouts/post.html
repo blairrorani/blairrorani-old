@@ -1,6 +1,6 @@
 ---
 layout: default
-author: 
+author:
 name: Blair Rorani
 ---
 
@@ -21,7 +21,7 @@ list the categories for this post, there should just be one.
 <ul class="list-the-tags">
 {% for category in page.categories %}
   ⭐️ Posted in
-  <a href="/category/{{ category | slugize }}/">
+  <a href="/category/{{ category | slugize | downcase}}/">
     {{ category }}
   </a>
 {% endfor %}
