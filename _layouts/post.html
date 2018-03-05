@@ -21,7 +21,7 @@ list the categories for this post, there should just be one.
 <ul class="list-the-tags">
 {% for category in page.categories %}
   ⭐️ Posted in
-  <a href="/category/{{ category | slugize | downcase}}/">
+  <a href="/category/{{ category | downcase}}">
     {{ category }}
   </a>
 {% endfor %}
