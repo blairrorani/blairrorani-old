@@ -31,13 +31,13 @@ Plus, I take visual notes on my iPad Pro so the notes are digital. This means th
 
 ### Can I see some examples?-->
 #### Product design
-![Visual note-taking product design](https://blair.rorani.com/images/visual-note-taking-1.jpg)
+![Visual note-taking product design](/images/visual-note-taking-1.jpg)
 
 #### Health insurance
 ![Visual note-taking health insurance](/images/notes-2.jpg)
 
 #### Financial services
-![Visual note-taking financial services](/images/visual-note-taking-example-3.jpg)
+![Visual note-taking financial services](/images/visual-note-taking-3.jpg)
 
 ### How does visual note-taking work?
 1. I start by listening to who ever is speaking.
