@@ -12,7 +12,7 @@ Visual note-taking allows you to capture and share the most important and impact
 ## Who takes visual notes?
 Hi I'm [Blair Rorani](/about). I've been taking visual notes on my iPad since 2010. Over the years I've turned hundreds of insights and ideas from conferences and other events, into clear, engaging visuals.
 
-![Visual note-taking on iPad Pro with Apple Pencil](/images/visual-note-taking-ipad-pro-apple-pencil.jpg)
+![Visual note-taking on iPad Pro with Apple Pencil](/images/ipad-pro-apple-pencil.jpg)
 
 {% include quote-reece.html %}
 
