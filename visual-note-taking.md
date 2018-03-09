@@ -46,6 +46,8 @@ Plus, I take visual notes on my iPad Pro so the notes are digital. This means th
 
 If you'd like some of the notes turned into A3 posters for your speakers or to hang around the office, I can do that for you too.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_htu7aEOdlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## I'm on board, what does this cost?
 - $500 (+ GST) for half a day
 - You can book half a day or a full day (two half days).
