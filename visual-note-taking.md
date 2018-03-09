@@ -34,7 +34,7 @@ Plus, I take visual notes on my iPad Pro so the notes are digital. This means th
 ![Visual note-taking product design](https://blair.rorani.com/images/visual-note-taking-1.jpg)
 
 #### Health insurance
-![Visual note-taking health insurance](/images/visual-note-taking-example-2.jpg)
+![Visual note-taking health insurance](/images/notes-2.jpg)
 
 #### Financial services
 ![Visual note-taking financial services](/images/visual-note-taking-example-3.jpg)
