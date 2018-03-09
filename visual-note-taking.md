@@ -31,7 +31,7 @@ Plus, I take visual notes on my iPad Pro so the notes are digital. This means th
 
 ### Can I see some examples?-->
 #### Product design
-![Visual note-taking product design](/images/visual-note-taking-example-1.jpg)
+![Visual note-taking product design](https://blair.rorani.com/images/visual-note-taking-example-1.jpg)
 
 #### Health insurance
 ![Visual note-taking health insurance](/images/visual-note-taking-example-2.jpg)
