@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Visual note-taking
+layout: page
 ---
 
 ## Capture key insights and ideas at your next event
