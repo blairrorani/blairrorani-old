@@ -44,8 +44,6 @@ Plus, I take visual notes on my iPad Pro so the notes are digital. This means th
 2. Next, I capture key insights and ideas using simple visuals.
 3. Then, I share the images with you via Dropbox (or your preferred file sharing service)
 
-<iframe width="420" height="315" src="http://blair.rorani.com/images/visual-note-taking-time-lapse.m4v" frameborder="0" allowfullscreen></iframe>
-
 If you'd like some of the notes turned into A3 posters for your speakers or to hang around the office, I can do that for you too.
 
 ## I'm on board, what does this cost?
