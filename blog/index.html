@@ -6,9 +6,11 @@ layout: default
 <h2>Posts by category</h2>
 <ul>
   {% for category in site.categories %}
-    <li>
-      <a href="/category/{{ category | first | downcase}}">{{ category | first }}</a>
-    </li>
+    {% unless category contains 'Scrapbook' %}
+      <li>
+        <a href="/category/{{ category | first | downcase}}">{{ category | first }}</a>
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
 
@@ -17,8 +19,10 @@ layout: default
 
 <ul class="post-list">
   {% for post in site.posts %}
+  {% unless post.categories contains 'Scrapbook' %}
     <li>
-        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></p>
     </li>
+    {% endunless %}
   {% endfor %}
 </ul>
