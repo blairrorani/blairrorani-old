@@ -11,6 +11,6 @@ layout: scrap
 
 ![Google's material design colour tool](/uploads/Screenshot%202018-03-12%2013.40.14.png)
 
-Handy colour (or color as they say in the US) from Google's Material Design tools. Basically you can choose a main / background colour and a complimentary highlight / foreground colour and see what the colours look like in various layouts.
+Handy colour tool (or color as they say in the US) from Google's Material Design system. Basically you can choose a main / background colour and a complimentary highlight / foreground colour and see what the colours look like in various layouts.
 
 Plus it does all the accessibility testing for you. 👍
