@@ -4,3 +4,4 @@ date: 2018-03-12 11:39:00 +11:00
 permalink: say-no
 ---
 
+> "The difference between successful people and very successful people is that very successful people say ‘no’ to almost everything." (Warren Buffet)
