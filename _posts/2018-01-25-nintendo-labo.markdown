@@ -7,7 +7,7 @@ categories:
 - Tech
 via: YouTube
 via-link: https://www.youtube.com/watch?v=P3Bd3HUMkyU
-layout: post
+layout: scrap
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P3Bd3HUMkyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
