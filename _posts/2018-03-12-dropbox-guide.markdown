@@ -7,4 +7,6 @@ categories:
 layout: scrap
 ---
 
-[Dropbox guide](https://www.dropbox.com/guide)
+![](https://cdn.ueno.co/build/e7d21073867dca929bdd9017cc0b3f8c.png)
+
+The [Dropbox guide](https://www.dropbox.com/guide) designed by [Ueno](https://ueno.co/work/dropbox-guide)
