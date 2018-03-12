@@ -13,4 +13,6 @@ layout: scrap
 
 The [Dropbox guide](https://www.dropbox.com/guide) designed by [Ueno](https://ueno.co/work/dropbox-guide) sort of mimics the feel of a printed manual. I like how it is more like a quick start guide that also has links to other support articles. That way you can still get the help you need without having to include everything in the guides.
 
-Ueno won an award for the UI. I agree that the UI works well on desktop and mobile.
+Ueno won a few awards for the design. I agree that it's easy to use and works well on desktop and mobile.
+
+I also like the feedback buttons at the bottom of each article so they know what is working and what isn't.
