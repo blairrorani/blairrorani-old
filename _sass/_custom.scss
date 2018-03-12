@@ -113,22 +113,22 @@
 
     .post-meta {
         font-size: $base-font-size;
-        color: $asbestos-color;
+        color: $silver-color;
     }
 
     .post-meta > a {
-        color: $asbestos-color;
+        color: $post-meta-link;
         text-decoration: underline;
         font-weight: $base-font-weight * 2;
 
         &:visited {
-            color: $asbestos-color;
+            color: $post-meta-link;
         }
 
         &:hover {
             color: white;
             text-decoration: none;
-            background-color: $asbestos-color;
+            background-color: $post-meta-link;
         }
       }
 
