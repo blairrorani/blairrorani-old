@@ -16,6 +16,6 @@ Blair teaches these lessons to others via educational experiences and resources 
 
 He also takes [visual notes ](/visual-note-taking) at events.
 
-## Get in touch
+## Social
 - [Tweets](http://twitter.com/{{ site.twitter_username }})
 - [Grams](http://instagram.com/{{ site.ig_username }})
