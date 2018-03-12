@@ -4,17 +4,12 @@ permalink: "/about/"
 layout: about
 ---
 
-## Blair Rorani has been learning new things and teaching them to others since 2003
-The official title for someone who does this is 'instructional designer' but he prefers 'designer of educational things' (guides, infographics, animations, online courses, workshops and websites).
+## Blair has been designing educational things for over a decade.
+The official title for someone who does this is 'instructional designer' but he prefers 'designer of educational things'.
 
-His educational experiences and resources have been used to teach tens of thousands of people about things like financial services, digital technology, telecommunications, energy, commodity trading, transport, sales, leadership and health and safety.
+His guides, infographics, animations, online courses, workshops and websites have been used to educate tens of thousands of people about things like financial services, telecommunications, digital technology, energy, commodity trading, sales, leadership and health and safety.
 
-Along the way he's learned valuable lessons about how to communicate visually, how to solve problems creatively, how to understand digital technology and, most importantly, how to learn new things quickly.
-
-## Now
-Blair teaches these lessons to others via educational experiences and resources at [Kea School](http://keaschool.com), a professional education 'company of one'.
-
-He also takes [visual notes ](/visual-note-taking) at events.
+He also teaches creative problem solving skills at [Kea School](http://keaschool.com) and takes [visual notes ](/visual-note-taking) at events.
 
 ## Social
 - [Tweets](http://twitter.com/{{ site.twitter_username }})
