@@ -1,8 +1,9 @@
 ---
 title: BananaCoin
-layout: scrap
+date: 2018-03-13 00:00:00 +11:00
 categories:
 - Scrapbook
+layout: scrap
 via: bananacoin.io
 via-link: https://bananacoin.io
 ---
