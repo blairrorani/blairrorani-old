@@ -1,10 +1,12 @@
 ---
-title: Successful people say "no"
+title: Scrapbook
 date: 2018-03-12 11:39:00 +11:00
 permalink: say-no
 categories:
 - Scrapbook
 layout: scrap
+via: Goodreads
+via-link: https://www.goodreads.com/quotes/929660-the-difference-between-successful-people-and-really-successful-people-is
 ---
 
-> "The difference between successful people and very successful people is that very successful people say ‘no’ to almost everything." ([Warren Buffet](https://www.goodreads.com/quotes/929660-the-difference-between-successful-people-and-really-successful-people-is))
+> "The difference between successful people and very successful people is that very successful people say ‘no’ to almost everything." (Warren Buffet, super rich fulla)

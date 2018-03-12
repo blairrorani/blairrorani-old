@@ -24,7 +24,7 @@
  }
 
  blockquote {
-     color: $grey-color;
+     color: $asbestos-color;
      border-left: 4px solid $link-color;
      padding-left: $spacing-unit / 2;
      font-size: $base-font-size;
@@ -113,8 +113,25 @@
 
     .post-meta {
         font-size: $base-font-size;
-        color: $text-color;
+        color: $asbestos-color;
     }
+
+    .post-meta > a {
+        color: $asbestos-color;
+        text-decoration: underline;
+        font-weight: $base-font-weight * 2;
+
+        &:visited {
+            color: $asbestos-color;
+        }
+
+        &:hover {
+            color: white;
+            text-decoration: none;
+            background-color: $asbestos-color;
+        }
+      }
+
 
 /**
  * my styles
@@ -244,3 +261,14 @@ iframe {
 h2 {
   color: #3498db;
 }
+
+.post-list {
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+      .scrapbook > li {
+          margin-bottom: $spacing-unit*4;
+      }
