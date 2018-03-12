@@ -9,10 +9,11 @@ layout: default
 
       <li>
         {{ post.content }}
-        <!--<p class="post-meta">On <a href="{{ post.url }}">{{ post.date | date: "%-d %B %Y" }}</a></p>-->
         {% if post.via %}
-        <p class="post-meta"><a href="{{ post.via-link }}" target="_blank">Via {{ post.via }}</a></p>
+        <p class="post-meta">
+          <a href="{{ post.via-link }}" target="_blank">Via {{ post.via }}</a> /
         {% endif %}
+        <a href="{{ post.url }}">Permalink</a></p>
       </li>
 
     {% endif %}
