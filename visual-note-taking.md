@@ -70,7 +70,7 @@ I'll get back to you within two business days.
 
 ## More
 
-### Want visual notes for your project kick-off meeting or workshop?
+### Want visual notes for your project kick-off meeting or design thinking workshop?
 There are definitely huge benefits to making information and ideas visual in these contexts. In addition to taking free-form notes, there are some other visual exercises that you can use to get everyone on the same page with your challenge and/or solution.
 
 - Capturing information from expert interviews and lightning demos
