@@ -12,8 +12,8 @@ Visual note-taking is a powerful way to capture, share and review the most impor
 ## Visual notes
 - Are a fun way to share insights and ideas with attendees
 - Are easy to browse and understand (you have to read an entire written note to understand what it's about)
-- Get lots of likes, shares and comments on social media
-- Can be reused in blog posts as posters
+- Get heaps of likes, shares and comments on social media
+- Can be reused in blog posts and Medium articles
 
 Plus, I take visual notes on my iPad Pro so the notes are digital. This means they can be shared instantly or resized for posters or other formats. No need to take photos of a flip cart, reflective whiteboard or notebook. Notes can even be exported as short time-lapse animations that show each stroke being drawing.
 
@@ -55,7 +55,7 @@ All of them. About 75% of the human brain is dedicated to processing visual info
 - $500 (+ GST) for half a day
 - You can book as many half days as you like (a one-day event = two half days).
 
-**Note:** Visual note-taking fees are pre-paid when your booking is confirmed.
+**Note:** Fees are pre-paid when your booking is confirmed.
 
 ## Make a booking
 Send me an email to [blair@rorani.com](mailto:blair@rorani.com) with:
