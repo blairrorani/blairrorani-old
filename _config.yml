@@ -9,11 +9,10 @@ collections:
     title: Uploads
     output: true
 email: blair@rorani.com
-description: I teach skills for the future of work at Kea School. Designer of practical,
-  visual, educational things. Member of LDS Church.
-baseurl: 
+description: 🧠 Blair makes things that help people get better at stuff
+baseurl:
 url: http://blair.rorani.com
 twitter_username: blairrorani
-github_username: 
+github_username:
 markdown: kramdown
 ig_username: blairrorani
