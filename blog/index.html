@@ -1,28 +1,25 @@
 ---
-title: Blog
+title: Stuff, stories and ideas
 layout: default
 ---
 
-<h2>Posts by category</h2>
+<h2>Pick a topic</h2>
+
 <ul>
   {% for category in site.categories %}
-    {% unless category contains 'Scrapbook' %}
       <li>
         <a href="/category/{{ category | first | downcase}}">{{ category | first }}</a>
       </li>
-    {% endunless %}
   {% endfor %}
 </ul>
 
 
-<h2>All the posts 🎪</h2>
+<h2>Scroll through everything 🎪</h2>
 
 <ul class="post-list">
   {% for post in site.posts %}
-  {% unless post.categories contains 'Scrapbook' %}
     <li>
         <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></p>
     </li>
-    {% endunless %}
   {% endfor %}
 </ul>

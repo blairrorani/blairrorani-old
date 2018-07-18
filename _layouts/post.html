@@ -1,13 +1,13 @@
 ---
 layout: default
-author: 
+author:
 name: Blair Rorani
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="post-content" itemprop="articleBody">
-{{ page.author.link }}
+    {{ page.author.link }}
 
     {{ content }}
   </div>
@@ -18,11 +18,6 @@ name: Blair Rorani
 list the categories for this post, there should just be one.
 -->
 
-<ul class="list-the-tags">
-{% for category in page.categories %}
-  ⭐️ Posted in
-  <a href="/category/{{ category | downcase}}">
-    {{ category }}
-  </a>
-{% endfor %}
-</ul>
+<p>
+  <a href="/category/{{ page.categories }}">#{{ page.categories }}</a>
+</p>

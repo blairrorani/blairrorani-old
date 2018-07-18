@@ -2,10 +2,11 @@
 title: BananaCoin
 date: 2018-03-13 00:00:00 +11:00
 categories:
-- Scrapbook
-layout: scrap
+- Tech
+layout: post
 via: bananacoin.io
 via-link: https://bananacoin.io
+permalink: bananacoin
 ---
 
 ![Banana Coin](/images/bananacoin.png)

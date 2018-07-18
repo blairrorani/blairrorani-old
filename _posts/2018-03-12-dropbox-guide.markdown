@@ -3,7 +3,7 @@ title: Dropbox guide
 date: 2018-03-12 00:00:00 +11:00
 permalink: dropbox-guide
 categories:
-- Scrapbook
+- Education
 via: Ueno
 via-link: https://ueno.co/work/dropbox-guide
 layout: scrap

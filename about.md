@@ -4,16 +4,23 @@ permalink: "/about/"
 layout: about
 ---
 
-## Blair makes things that help people get better at stuff
-The official title for someone who does this is "instructional designer" but he prefers "designer of educational things".
 
-Anyways, his guides, infographics, animations, online courses, workshops and websites have been used to educate tens of thousands of people about things like financial services, telecommunications, digital technology, energy, commodity trading, health, sales and leadership.
 
-He also takes tons of [notes on his iPad](/visual-note-taking).
+  I've spent over a decade learning and making things that help people get better at stuff.
 
-## Social
-- [Tweets](http://twitter.com/{{ site.twitter_username }})
-- [Photos and videos](http://instagram.com/{{ site.ig_username }})
+  During that time I've worked with companies like AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
+
+  My illustrations, animations, guides, online courses and workshops have helped tens of thousands of people to get better at stuff.
+
+  I also take heaps of [notes on my iPad](/visual-note-taking).
+
+
+<h2>Previously</h2>
+<ul>
+  <li>Alumni of <a href="http://inspiregroup.com.au" target="_blank">Inspire Group</a></li>
+  <!--<li>Instructional designer at <a href="https://www.sitel.com" target="_blank">Sitel</a></li>-->
+  <li><a href="https://www.facebook.com/photo.php?fbid=430976848499&set=a.405379188499.185174.543723499&type=3&theater" target="_blank">Mormon missionary</a> in the Australian outback</li>
+</ul>
 
 ## Talks
 <ul>

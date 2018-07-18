@@ -3,7 +3,7 @@ title: Material Design colour tool
 date: 2018-03-12 13:39:00 +11:00
 permalink: material-design-colour-tool
 categories:
-- Scrapbook
+- Design
 via: materialdesign.io
 via-link: https://material.io/color/#!/?view.left=0&view.right=0
 layout: scrap

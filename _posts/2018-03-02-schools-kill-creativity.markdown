@@ -19,6 +19,8 @@ For example, I taught myself how to draw on my iPad using [Adobe Draw](https://w
 
 My point is that all the standardisation and ultimately control   that comes along with the kind of school that governments design isn't the same as education. It's just memorisation of facts and tests underneath it all. There is no room for trying stuff you're interested in and practicing skills with examples and guidance from someone more expert than yourself.
 
-Someone who knows way more about this than me is Sir Ken Robinson. Many years ago he gave a [TED talk](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) that is so popular you're probably already seen it. If not, here it is 👇. I pretty much agree with everything he says because it sounds a lot like the schools I experienced as well as the schools my children are now experiencing.
+Someone who knows way more about this than me is Sir Ken Robinson. Many years ago he gave a [TED talk](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) that is so popular you're probably already seen it. If not, here it is 👇.
 
 <iframe src="https://embed.ted.com/talks/ken_robinson_says_schools_kill_creativity" width="854" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+I pretty much agree with everything he says because it sounds a lot like the schools I experienced as well as the schools my children are now experiencing.
