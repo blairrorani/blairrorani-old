@@ -4,8 +4,6 @@ permalink: "/about/"
 layout: about
 ---
 
-
-
   I've spent over a decade learning and making things that help people get better at stuff.
 
   During that time I've worked with companies like AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
