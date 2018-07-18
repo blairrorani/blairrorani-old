@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
 email: blair@rorani.com
-description: 🧠 Blair makes things that help people get better at stuff
-baseurl:
+description: "\U0001F9E0 Blair makes things that help people get better at stuff"
+baseurl: 
 url: http://blair.rorani.com
 twitter_username: blairrorani
-github_username:
+github_username: 
 markdown: kramdown
 ig_username: blairrorani
