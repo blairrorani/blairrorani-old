@@ -3,6 +3,7 @@ title: Visual communication
 permalink: "/visual-communication/"
 layout: about
 ---
+
 <div><img src="/images/info-on-whiteboard.png" /></div>
 
 <p>Give your teams practical, visual tools that explain the who, what, why and how of your strategy, processes, products and technologies.</p>
