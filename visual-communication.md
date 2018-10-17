@@ -3,20 +3,24 @@ title: Visual communication
 permalink: "/visual-communication/"
 layout: about
 ---
+<div><img src="/images/info-on-whiteboard.png" /></div>
 
 <p>Give your teams practical, visual tools that explain the who, what, why and how of your strategy, processes, products and technologies.</p>
-<h2>What you normally do</h2>
+## What you normally get
 <ul>
 <li>Bullets points</li>
 <li>Tables</li>
-<li>10 pt fonts</li>
+<li>10pt fonts</li>
 <li>Emails</li>
 <li>Town hall talks</li>
 <li>"Click and complete" elearning</li>
 <li>Information dumps</li>
 </ul>
-<p>This way of communicating is hard to understand, easy to ignore and a bit boring. Plus, people learn new skills through guided practise, not by doing elearning.</p>
-<h2>What you'll get instead</h2>
+
+This way of communicating is hard to understand, easy to ignore and a bit boring.
+
+## What you get instead
+
 <ul>
 <li>Cool illustrations</li>
 <li>Interesting stories</li>
@@ -25,3 +29,5 @@ layout: about
 <li>Digital tools and guides</li>
 <li>Fun, practical challenges and games</li>
 </ul>
+
+Get everyone on the same page and up-to-speed from the beginning.
