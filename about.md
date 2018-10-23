@@ -4,20 +4,17 @@ permalink: "/about/"
 layout: about
 ---
 
-  I've spent over a decade helping teams to understand new technology and use it to transform the way they learn and work.
+  <i class="em em-brain"></i> I've spent over a decade explaining things for organisations like: AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Disrupt Sydney, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
 
-  During that time I've worked with companies like AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
+  My visual notes, illustrations, animations, guides, online courses and workshops have helped thousands of people to understand and apply information and ideas.
 
-  My illustrations, animations, guides, online courses and workshops have helped tens of thousands of people to learn new digital skills.
-
-<h2>Previously</h2>
+## Previously
 <ul>
-  <li>Alumni of <a href="http://inspiregroup.com.au" target="_blank">Inspire Group</a></li>
-  <!--<li>Instructional designer at <a href="https://www.sitel.com" target="_blank">Sitel</a></li>-->
-  <li><a href="https://www.facebook.com/photo.php?fbid=430976848499&set=a.405379188499.185174.543723499&type=3&theater" target="_blank">Missionary</a> in the Australian outback</li>
+  <li>Alumni of <a href="http://inspiregroup.com.au">Inspire Group</a></li>
+  <li><a href="https://www.facebook.com/photo.php?fbid=430976848499&set=a.405379188499.185174.543723499&type=3&theater">Missionary</a> in the Australian outback</li>
 </ul>
 
-## Talks
+## Some Talks
 <ul>
 <li><a href="https://speakerdeck.com/blairrorani/the-photocopier-just-talked-to-me" target="_blank">The photocopier just talked to me</a></li>
   <li><a href="https://speakerdeck.com/blairrorani/sassy-instructional-design" target="_blank">SASSy instructional design</a></li>

@@ -27,4 +27,4 @@ Working in this way end up with slow progress, misaligned stakeholders, building
 - Visual, tangible prototype
 - Testing and feedback
 
-Get everyone solving the same problem, as a team, and validate your ideas before you start building.
+Get everyone solving the same problem, share information and ideas visually, and validate your ideas before you start building.
