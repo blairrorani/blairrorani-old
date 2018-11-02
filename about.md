@@ -4,7 +4,8 @@ permalink: "/about/"
 layout: about
 ---
 
-  <i class="em em-brain"></i> I've spent over a decade explaining things for organisations like: AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Disrupt Sydney, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
+## Who I've worked with
+  AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Disrupt Sydney, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
 
   My visual notes, illustrations, animations, guides, online courses and workshops have helped thousands of people to understand and apply information and ideas.
 
