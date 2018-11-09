@@ -1,0 +1,25 @@
+---
+title: Articles about explaining technology
+layout: default
+---
+
+<h2>Pick a topic</h2>
+
+<ul>
+  {% for category in site.categories %}
+      <li>
+        <a href="/category/{{ category | first | downcase}}">{{ category | first }}</a>
+      </li>
+  {% endfor %}
+</ul>
+
+
+<h2>Scroll through everything 🎪</h2>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a></p>
+    </li>
+  {% endfor %}
+</ul>
