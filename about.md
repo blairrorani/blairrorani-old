@@ -6,7 +6,7 @@ layout: about
 
 My mission is to make it easier for anyone to understand and use technology. <i class="em em-star-struck"></i>
 
-I've explained mobile banking apps, billing software, cloud computing platforms, commodity trading, customer relationship management software (CRMs), fintech (e.g. blockchain),  financial wellbeing tools, team collaboration platforms, virtual hosting platforms and workplace productivity apps.
+I've explained mobile banking apps, billing software, cloud computing platforms, commodity trading platforms, customer relationship management software (CRMs), fintech (e.g. blockchain),  financial wellbeing tools, team collaboration platforms, virtual hosting platforms and workplace productivity apps.
 
 I've also taken [visual notes](/visual-note-taking/) at tech talks and events.
 
