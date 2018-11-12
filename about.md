@@ -6,7 +6,9 @@ layout: about
 
 My mission is to make it easier for anyone to understand and use technology. <i class="em em-star-struck"></i>
 
-My visual notes, illustrations, animations, guides, online courses and workshops have helped thousands of people to understand and use new technology.
+I've designed presentations, illustrations, animations, guides, online courses and workshops to help people understand and use mobile banking apps, billing software, births / deaths /  marriages record keeping software, cloud computing platforms, customer relationship management software (CRMs), fintech (e.g. blockchain, crowdfunding, sharing economy), financial wellbeing digital tools and office / productivity apps, team collaboration platforms and virtual hosting platforms.
+
+I've also taken [visual notes](/visual-note-taking/) at tech talks and events.
 
 ## Previously
 <ul>
