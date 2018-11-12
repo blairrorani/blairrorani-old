@@ -4,10 +4,9 @@ permalink: "/about/"
 layout: about
 ---
 
-## Who I've worked with
-  AMP Bank, ANZ Bank, ASB Bank, Bupa, Coles, Commonwealth Bank, Disrupt Sydney, Downer, GrainCorp, HireVue, IAG, icare, Income Tax Professionals, MediBank, Mentally Friendly, Perpetual, Red Cross, Spark, Vodafone, and the Government.
+My mission is to make it easier for anyone to understand and use technology. <i class="em em-star-struck"></i>
 
-  My visual notes, illustrations, animations, guides, online courses and workshops have helped thousands of people to understand and apply information and ideas.
+My visual notes, illustrations, animations, guides, online courses and workshops have helped thousands of people to understand and use new technology.
 
 ## Previously
 <ul>
