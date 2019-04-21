@@ -1,5 +1,6 @@
 ---
 title: Visual note-taking
+permalink: "/visual-note-taking/"
 layout: page
 ---
 
