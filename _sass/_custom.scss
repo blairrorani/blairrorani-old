@@ -139,10 +139,11 @@
 
 .logo {
   display: block;
-  height: 60px;
+  max-width: 80px;
   margin-top: 15px;
   margin-bottom: 60px;
   border-radius: 50%;
+
 }
 
  .logo {
@@ -151,6 +152,7 @@
        margin-right: auto;*/
     }
  }
+
 
  .centre-me {
    margin-left: auto;
@@ -252,6 +254,12 @@ iframe {
    background-repeat: no-repeat;*/
    border: none;
    background-position: left;
+
+   .logo:hover{
+     background: none;
+     opacity: 0.8;
+     filter: alpha(opacity=80); /* For IE8 and earlier */
+   }
  }
  .site-header h2 {
    text-shadow: #fff 2px 0 10px;

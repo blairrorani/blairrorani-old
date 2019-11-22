@@ -4,11 +4,31 @@ permalink: "/about/"
 layout: about
 ---
 
-My mission is to make it easier for anyone to understand and use technology. <i class="em em-star-struck"></i>
+My mission is to help teams think, communicate and teach clearly <i class="em em-relieved" aria-role="presentation" aria-label="RELIEVED FACE"></i>
 
-I've explained mobile banking apps, billing software, cloud computing platforms, commodity trading platforms, customer relationship management software (CRMs), fintech (e.g. blockchain),  financial wellbeing tools, team collaboration platforms, virtual hosting platforms and workplace productivity apps.
+I've helped companies visualise and explain:
+- Mobile banking apps
+- Banking
+- Billing software
+- Cloud computing
+- Commodity trading platforms
+- Customer relationship management software (CRMs)
+- Customer service
+- Digital transformation
+- Energy networks
+- Fintech (blockchain and bitcoin)
+- Financial wellbeing
+- Health insurance
+- Innovation and digital disruption
+- Medical device sales
+- Project management
+- Risk management
+- Sales
+- Team collaboration platforms
+- Telecommunications
+- Workplace productivity apps
 
-I've also taken [visual notes](/visual-note-taking/) at tech talks and events.
+I've also taken [visual notes](/visual-note-taking/) at innovation and tech talks and events.
 
 ## Previously
 <ul>
