@@ -27,7 +27,7 @@ I've helped companies to visualise and explain:
 - Telecommunications
 - Workplace productivity apps
 
-I've also taken [visual notes](/visual-note-taking/) at innovation and tech talks and events.
+I've also taken [visual notes](/visual-note-taking/) at innovation and tech events.
 
 ## Previously
 <ul>
