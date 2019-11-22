@@ -6,7 +6,7 @@ layout: about
 
 My mission is to help teams think, communicate and teach clearly <i class="em em-relieved" aria-role="presentation" aria-label="RELIEVED FACE"></i>
 
-I've helped companies visualise and explain:
+I've helped companies to visualise and explain:
 - Mobile banking apps
 - Banking
 - Billing software
